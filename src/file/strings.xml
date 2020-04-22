@@ -1,0 +1,8 @@
+<resources>
+    <string name="action_settings">Nastavenia</string>
+    <string name="username">Užívateľské meno</string>
+    <string name="username">Užívateľské meno</string>
+    <string name="make_sure_that_are_ready">Uistite sa, že všetky\n @$@DETEKTORY@$@ sú v kľude; </string>
+    <string name="check_for_the_possible_group">Skontrolujte @$@PAMÄŤ UDALOSTÍ@$@\npre informáciu o problémoch systému.</string>
+    <string name="check_for_the_possible_group">Skontrolujte @$@PAMÄŤ UDALOSTÍ@$@\npre informáciu o problémoch systému.</string>
+</resources>

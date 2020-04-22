@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Loco xml export: Android string resources
+ Project: iRISCO
+ Release: Working copy
+ Locale: he_IL, Hebrew (Israel)
+ Exported by: Emil T
+ Exported at: Tue, 07 Nov 2017 08:14:59 +0000
+-->
+<resources>
+    <string name="terms_and_conditions_web_site_link">https://www.riscogroup.com/sites/default/files/TermsAndConditions_he.pdf</string>
+    <string name="privacy_policy_web_site_link">https://www.riscogroup.com/sites/default/files/RiscoPrivacyPolicy_he.pdf</string>
+
+    <string name="add_quick_buttons">הוסף לחצן</string>
+    <string name="apply_to_all">מצלמות</string>
+    <string name="message_applytoall">אשר החלפה של לחצנים מהירים אלו על כל המצלמות</string>
+
+
+    <string name="action_settings">הגדרות</string>
+    <!-- Login screen - username text field title -->
+    <string name="username">שם משתמש</string>
+    <!-- Login screen - password field title -->
+    <string name="password">סיסמא</string>
+    <string name="pincode">קוד ראשי</string>
+    <!-- No comment provided by engineer. -->
+    <string name="LoginScreenTitle">כניסה</string>
+    <string name="enter_correct_username">הכנס שם משתמש תקין</string>
+    <string name="enter_correct_password">הכנס סיסמא תקינה</string>
+    <string name="enter_correct_pincode">הכנס קוד ראשי תקין</string>
+    <string name="title_activity_main_screen">מסך ראשי</string>
+    <string name="wrong_credentials_message">שם משתמש או סיסמא שגויים</string>
+    <!-- iRISCO menu screen - security
+        Security Screen - screen title -->
+    <string name="nav_drawer_items">אבטחה</string>
+    <string name="nav_drawer_items_1">מצלמות</string>
+    <!-- Detectors screen - screen title
+        iRISCO menu screen - camers -->
+    <string name="nav_drawer_items_2">גלאים</string>
+    <string name="nav_drawer_items_3">ממסרים</string>
+    <!-- event history screen - screen title
+        iRISCO menu screen - event history -->
+    <string name="nav_drawer_items_4">זכרון ארועים</string>
+    <!-- iRISCO menu screen - notifications -->
+    <string name="nav_drawer_items_5">התראות</string>
+    <!-- iRISCO menu screen - system settings
+        Settings screen - screen title -->
+    <string name="nav_drawer_items_6">הגדרות</string>
+    <!-- iRISCO menu screen - logout -->
+    <string name="nav_drawer_items_7">יציאה</string>
+    <string name="notification_events_items">אזעקה/מצוקה/אש</string>
+    <string name="notification_events_items_1">דריכה/נטרול</string>
+    <string name="notification_events_items_2">טיפול בקשישים</string>
+    <string name="menu_title">תפריט</string>
+    <string name="partial">ביתי</string>
+    <string name="disarmed">מנוטרל</string>
+    <string name="armed">דרוך</string>
+    <string name="partition">קבוצה</string>
+    <string name="add_image">הוסף תמונה</string>
+    <string name="add_notification">+ הוסף התראה</string>
+    <string name="delete_user">מחק משתמש</string>
+    <string name="user_name">שם משתמש</string>
+    <string name="telephone_number">מספר טלפון</string>
+    <string name="email_address">כתובת מייל</string>
+    <string name="next_step">שלב הבא</string>
+    <string name="title_activity_notification">התראות</string>
+    <string name="notification_step1_description">הכנס את פרטי המשתמש</string>
+    <string name="notification_step2_description">הכנס את הארועים שעבורם תתקבל הודעה %1$s:</string>
+    <string name="all_event_types">כל סוגי האירועים</string>
+    <string name="all_partitions">כל הקבוצות</string>
+    <string name="save_notification">שמור התראה</string>
+    <string name="zone">אזור</string>
+    <string name="activate">הפעל</string>
+    <string name="signed_in_as">משתמש נוכחי</string>
+    <string name="police_number">טלפון חירום:</string>
+    <!-- About screen software version label text format -->
+    <string name="version">גירסה</string>
+    <string name="default_police_number">100</string>
+    <string name="logout">יציאה</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">בטל</string>
+    <string name="loading">טוען...</string>
+    <string name="logout_message">האם ברצונך להתנתק מהמערכת?</string>
+    <string name="all_events">כל האירועים</string>
+    <string name="troubles">תקלות</string>
+    <string name="alarms">אזעקות</string>
+    <string name="today">היום</string>
+    <string name="yesterday">אתמול</string>
+    <string name="load_more">טען עוד...</string>
+    <string name="enter_pin_code">הכנס קוד ראשי</string>
+    <string name="done">אישור</string>
+    <string name="police">משטרה</string>
+    <string name="clip">סרטון</string>
+    <string name="talk">דיבור</string>
+    <string name="live_view">צפייה בוידאו</string>
+    <string name="take_picture">צלם תמונה</string>
+    <string name="save_image">שמור תמונה</string>
+    <string name="disarm">נטרול</string>
+    <string name="rearm_system">דרוך מערכת מחדש</string>
+    <string name="welcome">ברוכים הבאים\n%1$s</string>
+    <string name="help_top_explanation">לחץ על המנעול על מנת לדרוך את כל הקבוצות</string>
+    <string name="help_bottom_explanation">גרור על מנת לדרוך את הקבוצה, או לחץ על מנת לראות את המדורים של אותה קבוצה</string>
+    <string name="general_error">תקלה כללית</string>
+    <string name="connection_error">תקלה בתקשורת</string>
+    <string name="detector_bypass">עקיפת גלאי</string>
+    <string name="bypass_message_sys_not_disarmed">%1$s לא ניתן לעקוף את\nעליך לנטרל את הקבוצה אליה האזור שייך.</string>
+    <string name="unbypass_message_sys_not_disarmed">\u0020לא ניתן לבטל את עקיפת %1$s\nעליך לנטרל את הקבוצה אליה האזור שייך.</string>
+    <string name="bypass_message">%1$s \nבמצב %2$s\nהאם ברצונך לעקוף אותו?</string>
+    <string name="unbypass_message">%1$s \nבמצב בעקיפה\nהאם ברצונך לבטל עקיפה זאת?</string>
+    <string name="bypass_message_on_arm">%s \nבמצב לא מוכן\nהאם ברצונך לעקוף אותו?</string>
+    <!-- Detectors Screen - bypass alert zone state -->
+    <string name="ready">מוכן</string>
+    <!-- Detectors Screen - bypass alert zone state -->
+    <string name="open">פתוח</string>
+    <string name="unbypass">בטל עקיפה</string>
+    <string name="bypass">עקיפה</string>
+    <string name="system">מערכת</string>
+    <string name="updating">מעדכן...</string>
+    <string name="empty_detector_list">אין גלאים במערכת.\nגלאים יופיעו כאן.</string>
+    <string name="empty_camera_list">אין מצלמות במערכת.\nמצלמות יופיעו כאן.</string>
+    <string name="empty_automation_list">אין ממסרים במערכת.\nממסרים יופיעו כאן.</string>
+    <string name="system_reject_error">המערכת דחתה את בקשתך</string>
+    <string name="panel_offline_error">המערכת אינה מחוברת</string>
+    <string name="general_error_message">לא ניתן להתחבר לשרת,אנא נסה מאוחר יותר. (Error code %d)</string>
+    <string name="delete_contact">מחק משתמשים</string>
+    <string name="delete_contact_message">האם אתה בטוח שברצונך למחוק את %1$s</string>
+    <string name="yes">כן</string>
+    <string name="system_is_not_ready">המערכת לא מוכנה</string>
+    <string name="multiple_zones_open_message">ישנם אזורים פתוחים.\nאנא וודא כי כל האזורים סגורים לפני הדריכה.</string>
+    <string name="system_not_ready_general_message">המערכת לא מוכנה ,בדוק את המערכת לפני דריכה.</string>
+    <string name="detectors_status">גלאים</string>
+    <string name="bypassing">לעקוף...</string>
+    <string name="global_groups">מדורים</string>
+    <string name="please_note">שים לב</string>
+    <string name="disarm_groups_message">לא ניתן לנטרל מדור. אנא נטרל את הקבוצה כולה.</string>
+    <string name="request_timed_out">Request timed out</string>
+    <string name="save_image_success">תמונה נשמרה בגלריה</string>
+    <string name="save_image_failed">הראה שגיאה בעת שמירת התמונה</string>
+    <string name="alarm_activated">אזעקה מופעלת</string>
+    <string name="taking_image">מצלם תמונה...</string>
+    <string name="cunsuming_battery_message">לאחר עזיבת מסך זה, ניתן לצפות בתמונה ממסך זכרון ארועים \n\nשים לב: לקיחת תמונות מגלאי אלחוטי צורכת בטריה מהגלאי.</string>
+    <string name="restricted_operation">פעולה אסורה</string>
+    <string name="remote_disarm_restricted_message">המערכת אינה מאפשרת נטרול מרחוק.</string>
+    <string name="remote_arm_restricted_message">במערכת אינה מאפשרת דריכה מרחוק.</string>
+    <string name="customized_url">שנה את כתובת השרת</string>
+    <string name="use_customized_url">שנה את כתובת השרת</string>
+    <string name="choose_input">בחר כניסה</string>
+    <string name="push_registration_error">רישום לשרות ההודעות של גוגל נכשל.\nError: %1$s</string>
+    <string name="cameras">מצלמות</string>
+    <string name="loading_image">טוען תמונות...</string>
+    <string name="loading_video">טוען וידאו...</string>
+    <string name="unknown_error_message">שגיאה לא ידועה התרחשה</string>
+    <string name="econnreset_error_message">רכיב התקשורת עסוק. אנא נסה שנית.</string>
+    <string name="invalid_email_address">כתובת מייל לא תקינה</string>
+    <string name="cannot_perform_phone_call">המכשיר אינו יכול לבצע שיחות טלפון</string>
+    <string name="camera_connection_failed">תקלה בחיבור למצלמה.</string>
+    <string name="swtich_on_text">I</string>
+    <string name="swtich_off_text">O</string>
+    <string name="add_panel_button">הוסף בקרה</string>
+    <string name="panels">בקרות</string>
+    <string name="switch_panels">החלפת בקרה</string>
+    <string name="switch_panels_alert">האם תרצה להחליף לבקרה %1$s?</string>
+    <string name="select_icon">בחר סמל</string>
+    <string name="save">שמור</string>
+    <string name="add_panel">הוסף בקרה</string>
+    <string name="too_many_panels_error">הגעת לכמות המקסימלית של בקרות שניתן להוסיף</string>
+    <string name="user_exists_error">משתמש זה כבר קיים</string>
+    <string name="multi_panel_logout_message">האם אתה רוצה להתנתק מכל הבקרות?</string>
+    <string name="multi_panel_message">%1$s בבקרה %2$s.\nהאם אתה רוצה לעבור לבקרה זו?</string>
+    <string name="multi_panel_title">אירוע ב%1$s</string>
+    <string name="help">עזרה</string>
+    <string name="edit">ערוך</string>
+    <string name="record">הקלט</string>
+    <string name="stop">הפסק</string>
+    <string name="app_user">משתמש</string>
+    <string name="arm">דריכה</string>
+    <string name="bypassed">עקוף</string>
+    <string name="camera_response_error">קוד שגיאת מצלמה: %d</string>
+    <string name="cameras_and_control">מצלמות ושליטה</string>
+    <string name="cannot_access_lib">לא ניתן לגשת לספריית התמונות</string>
+    <string name="choose_existing">בחר תמונה קיימת</string>
+    <string name="close">סגור</string>
+    <string name="contact_details">פרטי איש קשר</string>
+    <string name="could_not_connect_itunes">החיבור לשרתי אפל נכשל</string>
+    <string name="devices">התקנים</string>
+    <string name="disarmed_not_ready">מנוטרל, לא מוכן</string>
+    <string name="disarmed_ready">מנוטרל, מוכן</string>
+    <string name="disarming_system">מנטרל מערכת...</string>
+    <!--<string name="email">דוא\"ל</string>-->
+    <string name="enter_your_password">הכנס סיסמה</string>
+    <string name="event_options">אפשרויות אירוע</string>
+    <string name="events">אירועים</string>
+    <string name="snaphot_timed_out">זמן לקיחת תמונה עבר</string>
+    <string name="globally_arm_group">דריכת מדור כללי</string>
+    <string name="groups">מדורים</string>
+    <string name="history">יומן אירועים</string>
+    <string name="home">בית</string>
+    <string name="in_app_purchases_restricted">מכשירך לא מאפשר רכישה.\nניתן לבטל מגבלה זו תחת הגדרות\\כללי\\הגבלות</string>
+    <string name="last_alarm_images">צפה בתמונות מאזעקה</string>
+    <string name="live_view_error">שגיאת וידאו</string>
+    <string name="name">שם</string>
+    <string name="not_ready">לא מוכן</string>
+    <string name="panel_ac_loss">נפילת מתח במערכת\n</string>
+    <string name="partial_armed">דרוך חלקית</string>
+    <string name="partial_ready">מוכן חלקית</string>
+    <string name="enter_contact_name">הכנס שם איש קשר</string>
+    <string name="enter_phone_number">הכנס מספר טלפון</string>
+    <string name="powered_by">מופעל על ידי</string>
+    <string name="proceed">המשך</string>
+    <string name="rearming_system">דורך מחדש...</string>
+    <string name="renew">חדש</string>
+    <string name="see_panel_for_info">למידע נוסף אנא ראה תצוגת מערכת</string>
+    <string name="sms">SMS</string>
+    <string name="status">מצב</string>
+    <string name="streaming_not_supported">פורמט הוידאו לא נתמך</string>
+    <string name="take_image_failed">צילום התמונה נכשל</string>
+    <string name="server_not_responding">השרת לא מגיב, אנא נסה שנית מאוחר יותר</string>
+    <string name="no_products_for_purchase">לא קיימים רשיונות לרכישה. אנא פנה לתמיכה.</string>
+    <string name="feature_not_available">פעולה זאת מחייבת רכישת רישיון בעבור תשלום שנתי של %1$s</string>
+    <string name="turn_off">כבה</string>
+    <string name="turn_on">הדלק</string>
+    <string name="video_error">שגיאת וידאו</string>
+    <string name="view_alarm_images">תמונות מהאזעקה</string>
+    <string name="cannot_perform_taking_pictures">לא ניתן לצלם תמונות במכשירך</string>
+    <string name="subscription_expired_message">תקופת הרישיון הסתיימה. על מנת לחדש את הרישיון לחץ על \"חדש\"</string>
+    <string name="trial_expired_message">תקופת הניסיון הסתיימה.\nאנא רכוש את הגרסה המלאה במחיר שנתי של %1$s</string>
+    <string name="video_clips">הקלטות וידאו</string>
+    <string name="play">נגן</string>
+    <string name="perimeter">היקפי</string>
+    <string name="back">חזור</string>
+    <string name="low_battery">סוללה חלשה</string>
+    <string name="enter_your_username">הכנס שם משתמש</string>
+    <string name="alerts">התראות</string>
+    <string name="choose_another_panel_message">לא ניתן להתחבר ל \n.(%1$s (%2$s\nבחר בקרה אחרת</string>
+    <string name="alarm">אזעקה</string>
+    <string name="unexpexted_error">התרחשה שגיאה לא צפויה</string>
+    <string name="email_in_use">כתובת הדוא\"ל שלך נמצאת בשימוש</string>
+    <string name="panel_already_registered">הבקרה רשומה כבר במערכת</string>
+    <string name="invalid_panel_id">מספר הבקרה שגוי</string>
+    <string name="registration_succeeded">ההרשמה הסתיימה בהצלחה</string>
+    <string name="first_name">שם פרטי</string>
+    <string name="last_name">שם משפחה</string>
+    <string name="verify_password">אימות סיסמה</string>
+    <string name="panel_id">מספר בקרה</string>
+    <string name="time_zone">אזור זמן</string>
+    <string name="i_agree">אני מסכים ל</string>
+    <string name="terms_and_conditions">תנאי שימוש</string>
+    <string name="register">הרשמה</string>
+    <string name="empty_clips_list">לא הוקלטו סירטונים. ההקלטות יופיעו כאן.</string>
+    <string name="perimeter_armed">דרוך היקפית</string>
+    <string name="enter_first_name">הכנס בבקשה שם פרטי</string>
+    <string name="enter_last_name">הכנס בבקשה שם משפחה</string>
+    <string name="bad_password">הכנס בבקשה סיסמה תקינה (לפחות 6 תווים ולפחות ספרה אחת)</string>
+    <string name="password_match_error">הסיסמאות אינן תואמות</string>
+    <string name="enter_panel_id">הכנס בבקשה מספר בקרה תקין</string>
+    <string name="enter_time_zone">הכנס בבקשה אזור זמן</string>
+    <string name="accept_terms_and_conditions">בבקשה \nסמן\n כי הנך מסכים \nלתנאי השימוש</string>
+    <string name="registration_failed">ההרשמה נכשלה</string>
+    <string name="panel_was_added">בקרה זו קיימת כבר ברשימה</string>
+    <string name="partitions">קבוצות</string>
+    <string name="NotificationContactScreenEmptyContactEmailMessage">אנא הכנס את כתובת דואר אלקטרוני</string>
+    <string name="NotificationContactScreenDeleteContactAlertMessage">איש הקשר יוסר מרשימת המנויים להודעות</string>
+    <string name="url">כתובת אתר</string>
+    <string name="GetImageErrorMsg">לא ניתן לקבל תמונה, אנא נסה שוב מאוחר יותר</string>
+    <string name="OccuredErrorMsg">מצטער, אירעה שגיאה. בבקשה נסה שוב מאוחר יותר</string>
+    <string name="EnterUrlMsg">הזן כתובת אתר</string>
+    <string name="SaveChangesMsg">האם ברצונך לשמור את השינויים?</string>
+    <string name="AboutThisApplication">אודות יישום זה</string>
+    <string name="Info">מידע</string>
+    <string name="EditContact">עריכת איש קשר</string>
+    <string name="PleaseChooseAtLeastOneEventOption">אנא בחר באפשרות אירוע אחד לפחות</string>
+    <string name="PleaseChooseAtLeastOnePartition">אנא בחר לפחות קבוצה אחת</string>
+    <string name="LoginFailed">התחברות נכשלה! נא להזין מחדש שם משתמש, סיסמה וקוד ראשי שלך ונסה שוב.</string>
+    <string name="no_images_to_show">אין תמונות להצגה</string>
+    <string name="no_image_to_save">אין תמונות לשמירה</string>
+    <string name="Automation">אוטומציה</string>
+    <!-- Configure preset - Add device button -->
+    <string name="plus_add">הוסף +</string>
+    <!-- Termostat screen - currently -->
+    <string name="battary">סוללה</string>
+    <!-- No comment provided by engineer. -->
+    <string name="choose_events">בחר ארועים</string>
+    <!-- No comment provided by engineer. -->
+    <string name="choose_partitions">בחר קבוצות</string>
+    <!-- home automation - climate control title -->
+    <string name="climate_control">בקרת אקלים</string>
+    <!-- Termostat screen - currently -->
+    <string name="currently">נכון לעכשיו</string>
+    <!-- device name title -->
+    <string name="device">התקן</string>
+    <!-- home automation - door lock title -->
+    <string name="door_locks">דלתות</string>
+    <!-- empty error message -->
+    <string name="empty_error_recived">שגיאה לא ידועה</string>
+    <!-- Configure preset - event option -->
+    <string name="event">אירוע</string>
+    <!-- iRISCO menu screen - home automation -->
+    <string name="home_automation">בית חכם</string>
+    <!-- home automation - lighting switch title -->
+    <string name="lighting">תאורה</string>
+    <!-- device location title -->
+    <string name="location">מיקום</string>
+    <!-- Home automation door lock button title -->
+    <string name="lock">נעל\u0020</string>
+    <!-- Home automation door is locked description -->
+    <string name="locked">נעול</string>
+    <!-- Configure preset - manual option -->
+    <string name="manual">ידני</string>
+    <!-- crreate new preset screen title -->
+    <string name="new_preset">תרחיש חדש</string>
+    <!-- Preset next schedule title
+        Termostat screen - currently -->
+    <string name="next_schedule">תזמון הבא</string>
+    <!-- Presets screen - no presets message -->
+    <string name="no_presets_message">לא הוגדרו תרחישים במערכת. תרחישים יופיעו כאן.</string>
+    <!-- Configure preset - none of the options -->
+    <string name="none">ללא</string>
+    <!-- panel is offline - last update tool bar text -->
+    <string name="panel_is_offline_since">הבקרה לא מחוברת מ:\n%s</string>
+    <!-- empty devices list in preset error -->
+    <string name="please_choose_device">בחר התקן אחד לפחות לתרחיש</string>
+    <!-- empty preset name error -->
+    <string name="please_enter_name">נא להזין שם לתרחיש</string>
+    <!-- Home Automation Screen - presets button label -->
+    <string name="presets">תרחישים</string>
+    <!-- Configure preset - schedule option -->
+    <string name="schedule">לוח זמנים</string>
+    <!-- Schedule select days title -->
+    <string name="select_days">בחר ימים</string>
+    <!-- Home automation thermostat set button title -->
+    <string name="set">הגדר</string>
+    <!-- device settings title -->
+    <string name="settings">הגדרות</string>
+    <!-- last update time text -->
+    <string name="status_last_update_message">עדכון מצב אחרון:\nלפני %d שניות</string>
+    <!-- Home automation switch is off description -->
+    <string name="switch_off">מתג כבוי</string>
+    <!-- Home automation switch is on description -->
+    <string name="switch_on">מתג דלוק</string>
+    <!-- Device has no camera message -->
+    <string name="no_camera_permission">ליישום זה אין הרשאה להשתמש במצלמה. ניתן לשנות הגדרה זו בהגדרות המכשיר.</string>
+    <!-- Device has no camera message -->
+    <string name="no_microphone_permission">ליישום זה אין הרשאה להשתמש במיקרופון. ניתן לשנות הגדרה זו בהגדרות המכשיר.</string>
+    <!-- Home Automation - device not available error -->
+    <string name="device_unavailable_message">ההתקן אינו זמין כעת.</string>
+    <!-- Error duplicate preset name -->
+    <string name="preset_exist_message">שם התרחיש כבר קיים</string>
+    <!-- Schedule select time title -->
+    <string name="time">שעה</string>
+    <!-- Configure preset - trigger title -->
+    <string name="trigger">הפעלה</string>
+    <!-- Preset trigger by title -->
+    <string name="trigger_by">מופעל על ידי</string>
+    <!-- Home automation door lock button title -->
+    <string name="unlock">פתח</string>
+    <!-- Home automation door is un-locked description -->
+    <string name="unlocked">פתוח</string>
+    <!-- iRISCO menu screen - utility outputs -->
+    <string name="utility_outputs">ממסרים</string>
+    <!-- home automation - timer switch title -->
+    <string name="water_heater">דוד חשמלי</string>
+    <string name="empty_ha_list">לא הוגדרו התקני בית חכם במערכת. התקני בית חכם יופיעו כאן.</string>
+    <string name="panel_temporary_disconnected_error">הלוח מנותק באופן זמני מהשרת. אנא בדוק את חיבור האינטרנט של המערכת שלך או נסה שוב מאוחר יותר.</string>
+    <string name="two_users_simultaneously_error">המערכת דחתה את הבקשה שלך מאחר ומשתמש אחר מחובר למערכת. הערה: לא ניתן לבצע פעולה עם 2 משתמשים עם רמת הרשאה שונה בו זמנית.</string>
+    <string name="server_panel_timeot_error">הזמן שהוקצב להתחברות לשרת הסתיים, אנא בדוק את חיבור האינטרנט של המערכת שלך.</string>
+    <string name="function_disabled_error">פעולה זו נחסמה על ידי ספק השירות שלך. אנא פנה אל ספק השירות שלך.</string>
+    <string name="auto_report">דווח אוטומטית למוקד</string>
+    <string name="ms_event_expired_error">לא ניתן לדווח אירוע זה.</string>
+    <string name="ms_report_error">לא ניתן לדווח אירוע זה למוקד. אנא נסה שוב מאוחר יותר או פנה לתמיכה.</string>
+    <string name="event_reported">%s דווח למוקד</string>
+    <string name="report_to_ms">דווח למוקד</string>
+    <string name="report_to_ms_alert_text">האם ברצונך לדווח %s למוקד?</string>
+    <string name="from">מ -</string>
+    <string name="to">עד</string>
+    <string name="internet_connection_error">לא ניתן להתחבר לשרת. אנא ודא חיבוריות לאינטרנט ואת כתובת השרת.</string>
+    <string name="incorrect_qr_code_error">הקוד שנסרק שגוי. עליך לסרוק את הברקוד המופיע באתר הענן או זה שקיבלת מספק השרות שלך.</string>
+    <string name="scan_qr_code">סרוק קוד QR</string>
+    <string name="scan">סרוק</string>
+    <string name="server_url_was_set">כתובת השרת עודכנה לפי הברקוד שנסרק</string>
+    <string name="low_os_version_error">גרסת ה-iOS במכשירך לא תומכת באפשרות זו</string>
+    <string name="schedule_date_pick_error">אנא בחר תאריך התחלה הקודם לתאריך הסיום</string>
+    <string name="good_advices">עצות טובות</string>
+    <string name="never">אף פעם</string>
+    <string name="always">תמיד</string>
+    <string name="all">הכל</string>
+    <!-- I Agree to the Terms & Conditions -->
+    <string name="i_agree_ios">אני מסכים ל &lt;ct&gt;תנאי השימוש&lt;/ct&gt;</string>
+    <string name="default_group_name">קבוצת ברירת מחדל</string>
+    <string name="group">קבוצה</string>
+    <string name="rule_name">שם ההפעלה</string>
+    <string name="rule_event_trigger_setting_error">אין אפשרות להגדיר את אירוע ההפעלה בענן. בבקשה נסה שוב מאוחר יותר.</string>
+    <string name="gateway_not_responding_error">Gateway בית חכם אינו מגיב. אנא בדוק את החיבור לאינטרנט של ההתקן</string>
+    <string name="gateway_general_error">Gateway בית חכם שגיאה פנימית (קוד שגיאה %d)</string>
+    <string name="battery_device_set_confirmation_message">הפקודה נשלחה בהצלחה. מכיוון שהמכשיר המופעל באמצעות סוללה נטענת, זה ייקח עד כ-f% דקות לקבלת הפקודה</string>
+    <string name="please_re_login_to_verify_your_password">היכנס מחדש על מנת לאמת את הסיסמה שלך</string>
+    <string name="gateway_update_message_body">גרסת תוכנה חדשה זמינה ל - Gateway</string>
+    <string name="gateway_update_question">האם תרצה לעדכן?</string>
+    <string name="gateway_update_error">אירעה שגיאה בעת עדכון ה-Gateway</string>
+    <string name="retry_question">האם אתה רוצה לנסות שוב?</string>
+    <string name="whats_new">מה חדש?</string>
+    <string name="critical_update_note_message">שים לב: עדכון זה הוא קריטי. אנו ממליצים לך לבצע את העדכון בהקדם האפשרי.</string>
+    <string name="account_blocked_message">מצטערים, חרגת ממספר המרבי של ניסיונות כניסה והחשבון נחסם באופן זמני. בבקשה נסה שוב מאוחר יותר.</string>
+    <string name="target">יעד</string>
+    <!-- No device was selected -->
+    <string name="no_device_was_selected">לא נבחר התקן</string>
+    <!-- Point your camera at the QR code -->
+    <string name="point_your_camera_at_the_qr_code">כוון את המצלמה אל קוד QR</string>
+    <!-- Scan success -->
+    <string name="scan_success">הצלחת סריקה</string>
+    <!-- Scan failure -->
+    <string name="scan_failure">סריקה נכשלה</string>
+    <!-- An error occurred while loading system data. Some data may be missing. Re-enter the app to re-load the data -->
+    <string name="connection_error_after_login">אירעה שגיאה בעת טעינת נתוני מערכת. נתונים מסוימים עשויים להיות חסרים. היכנס מחדש לאפליקציה כדי לטעון את הנתונים</string>
+    <!-- Dimmer -->
+    <string name="dimmer">עמעם</string>
+    <string name="on">דלוק</string>
+    <string name="off">כבוי</string>
+    <string name="thermostat">תרמוסטט</string>
+    <string name="device_not_alive">התקן לא נמצא</string>
+    <string name="other">אחר</string>
+    <string name="success">הצלחה</string>
+    <!-- Sun -->
+    <string name="sunday_short">א</string>
+    <string name="monday_short">ב</string>
+    <string name="tuesday_short">ג</string>
+    <string name="wednesday_short">ד</string>
+    <string name="thursday_short">ה</string>
+    <string name="friday_short">ו</string>
+    <string name="saturday_short">ש</string>
+    <string name="at">ב</string>
+    <string name="delete">מחק</string>
+    <string name="delete_rule_message">אתה בטוח שאתה רוצה למחוק?</string>
+    <string name="last_changes_not_be_saved">כל השינויים האחרונים לא יישמרו. האם אתה בטוח שברצונך להמשיך?</string>
+    <string name="unauthorized">לא מורשה</string>
+    <!-- A server with the specified hostname could not be found -->
+    <string name="server_hostname_not_found">השרת המוגדר לא נמצא</string>
+    <string name="set_to_degree">כוון ל</string>
+    <string name="battery_device_set_confirmation_message_android">הפקודה נשלחה בהצלחה. יש לציין כי המכשיר המופעל באמצעות סוללה נטענת, זה ייקח עד %d דקות לעדכון</string>
+    <string name="how_to_replace_batteries">איך_להחליף_סוללות</string>
+    <string name="shutters_and_curtains">תריסים ווילונות</string>
+    <string name="fully_closed">סגירה מלאה</string>
+    <string name="fully_opened">פתיחה מלאה</string>
+    <string name="value_opened">%d%% פתוח</string>
+    <string name="fully_close">סגירה מלאה</string>
+    <string name="fully_open">פתיחה מלאה</string>
+    <!-- Notification sound setup -->
+    <string name="notification_sound_setup">הגדרת צליל התרעה</string>
+    <string name="string_default">ברירת מחדל</string>
+    <string name="incorrect_time_zone">אנא הגדר אזור זמן נכון!</string>
+    <string name="title_activity_notification_1_2">הודעות 1/2</string>
+    <string name="title_activity_notification_2_2">הודעות 2/2</string>
+    <string name="door_problem">בעיית דלת\u0020</string>
+    <string name="quick_buttons">הוסף לחצן</string>
+    <string name="already_armed">מערכת דרוכה</string>
+    <string name="already_disarmed">מערכת מנוטרלת</string>
+    <string name="partial_arm">דריכה חלקית\n</string>
+    <string name="all_system_disarmed">מערכת דרוכה</string>
+    <string name="full_system_arm">דריכה מלאה</string>
+    <string name="apply_and_overwrite_this_quick_buttons_set_to_all_">אשר החלפה של לחצנים מהירים אלו על כל המצלמות</string>
+    <string name="are_you_sure_you_want_to_delete">האם אתה בטוח שברצונך למחוק</string>
+    <string name="search">חפש</string>
+
+    <string name="walkthrough1">לחץ להגדיר מיקום או להגדיר מחדש מיקום קיים</string>
+    <string name="walkthrough2">לחץ על מיקום על מנת לראות או לשנותה</string>
+    <string name="walkthrough3">סובב תצוגה ב-180°</string>
+    <string name="walkthrough4">חזור למיקום בית</string>
+
+
+    <!--"email_address" = "Email Address";-->
+    <string name="email">כתובת מייל</string>
+
+    <!--"no_camera" = "No Camera";-->
+    <string name="no_camera">אין מצלמות</string>
+
+    <!--"no_recieve_mail" = "Didn’t receive an email? ";-->
+    <string name="not_receive_email">לא קיבלת דוא\"ל?</string>
+
+    <!--"retrieve-another-panel-retrieve-another-site" = "Retrieve another site";-->
+    <string name="retrieve_another_site">אחזר אתר נוסף</string>
+
+    <!--"county-country" = "Country";-->
+    <string name="country">ארץ</string>
+
+    <!--"site_details_title" = "SITE DETAILS";-->
+    <string name="site_details">פרטי אתר</string>
+
+    <!--"retrieve_site_title" = "RETRIEVE SITES";-->
+    <string name="retrieve_sites">אחזר אתרים</string>
+
+    <!--"choose_site" = "Choose the sites you want\nto retrieve one by one";-->
+    <string name="choose_the_sites_you_want_to_retrieve">בחר את האתרים הרצויים \n כדי לאחזר אחד את השני</string>
+
+    <!--"ip_camera" = "IP cameras";-->
+    <string name="ip_cameras">מצלמת איי פי</string>
+
+    <!--"pir_camera" = "PIR cameras";-->
+    <string name="pir_cameras">מצלמת גלאי</string>
+
+    <!--"choose_camera" = "Choose cameras";-->
+    <string name="choose_cameras">בחר מצלמות</string>
+
+    <!--"user_details" = "User details";-->
+    <string name="user_details">פרטי משתמש</string>
+
+    <!--"choose_product_type" = "Choose product type";-->
+    <string name="choose_product_type">בחר סוג מוצר</string>
+
+    <!--"equipment_notexist" = "The equipment does not exist";-->
+    <string name="create_resault_registration_equipmentDoesnotexist4">הציוד אינו קיים</string>
+
+    <!--"equipment_never_connected" = "The equipment never connected";-->
+    <string name="create_resault_registration_equipmentneverconnected6">הציוד מעולם לא היה מחובר</string>
+
+    <!--"no_more_site_allow" = "No more sites under user allowed";-->
+    <string name="create_resault_registration_nomoresitesunderuserallowed11">לא ניתן להוסיף עוד אתרים תחת המשתמש</string>
+
+    <!--"user_already_registered" = "User already registered";-->
+    <string name="create_resault_registration_useralreadyregistered12">המשתמש כבר רשום</string>
+
+    <!--"validation_key_wrong" = "Validation key wrong or expired";-->
+    <string name="create_resault_registration_validationkeywrongorexpired13">מפתח האימות שגוי או פג תוקף</string>
+
+    <!--"save_changes_confirmation" = "Are you sure you want to save these changes?";-->
+    <string name="are_you_sure_you_want_to_save">האם אתה בטוח שברצונך לשמור שינויים אלה?</string>
+
+    <!--"site_already_retrieve" = "This site is already retrieved.";-->
+    <string name="site_not_found">אתר זה כבר שוחזר.</string>
+
+    <!--"choose_country" = "Choose country";-->
+    <!--<string name="choose_country">Elija el país</string>-->
+
+    <!--"choose_time_zone" = "Choose time zone";-->
+    <!--<string name="choose_time_zone">Elija la zona horaria</string>-->
+
+    <!--"choose_state" = "Choose state";-->
+    <!--<string name="choose_state">Choose state</string>-->
+
+    <!--"choose_product" = "Choose product";-->
+    <!--<string name="choose_product">Choose product</string>-->
+
+    <!--"all_cameras" = "All cameras";-->
+    <!--<string name="all_cameras">All cameras</string>-->
+
+    <!--"image-is-not-available" = "Image is not available";-->
+    <string name="image_is_not_available">התמונה אינה זמינה</string>
+
+    <!--"sites" = "SITES";-->
+    <string name="sites">אתרים</string>
+
+    <!--"create_new_site_title" = "CREATE NEW SITE";-->
+    <string name="create_new_site">צור אתר חדש</string>
+
+    <!--"register_title" = "REGISTER";-->
+    <string name="register_title">הרשם</string>
+
+    <!--"forgot_password" = "Forgot password?";-->
+    <string name="forgot_password">שכחת סיסמה?</string>
+
+    <!--"forgot_password_title" = "FORGOT PASSWORD";-->
+    <string name="forgot_password_title">שכחתי סיסמה</string>
+
+    <!--Missing-->
+    <!--<string name="no_network">No Network</string>-->
+
+    <!--"add_new_site" = "ADD NEW SITE";-->
+    <string name="add_new_site">הוסף אתר חדש</string>
+
+    <!--"retrieve_title" = "RETRIEVE SITE";-->
+    <string name="retrieve_site">אחזר אתר</string>
+
+    <!--"fill_details_panel" = "Fill in the details of the panel\nyou want to retrieve";-->
+    <string name="retrieve_sites_msg">מלא את פרטי המערכת \n שברצונך לאחזר</string>
+
+    <!--"retrieve_button_title" = "Retrieve";-->
+    <string name="retrieve">החזר</string>
+
+    <!--"empty_user" = "Username cannot be empty";-->
+    <string name="username_cannot_be_empty">שם המשתמש אינו יכול להיות ריק</string>
+
+    <!--"site_name" = "Site Name";-->
+    <string name="site_name">שם אתר</string>
+
+    <!--"product_id" = "ID del Producto";-->
+    <string name="product_id">מזהה מוצר</string>
+
+    <!--"use_address" = "Use my account address";-->
+    <string name="use_my_account_address">השתמש בכתובת החשבון שלי</string>
+
+    <!--"retrieve-another-panel-retrieve-another-site" = "Retrieve another site";-->
+    <string name="retrieve_another_panel_as_site">אחזר אתר נוסף</string>
+
+    <!--"state_province" = "State/Province";-->
+    <string name="state_province">מדינה / מחוז</string>
+
+    <!--"city" = "City";-->
+    <string name="city">עיר</string>
+
+    <!--"address" = "Address";-->
+    <string name="address">כתובת</string>
+
+    <!--"zip_code" = "Zip code";-->
+    <string name="zipcode">מיקוד</string>
+
+    <!--"phone_number" = "Phone number";-->
+    <string name="phone_num">מספר טלפון</string>
+
+    <!--"enter" = "Enter";-->
+    <string name="enter">הקלד</string>
+
+    <!--Missing-->
+    <!--<string name="error">Error</string>-->
+
+    <!--"wrong_pin" = "Wrong PIN code, please try again";-->
+    <string name="wrong_pincode">קוד שגוי, אנא נסה שנית</string>
+
+    <!--"invalid_site_name" = "Invalid site name, please try again";-->
+    <string name="empty_site_name">שם אתר לא חוקי, נסה שוב</string>
+
+    <!--"equipment_digit" = "The equipment ID is 15 digits";-->
+    <string name="product_id_criteria_control_panel">מזהה המוצר הוא 15 ספרות</string>
+
+    <!--"equipment_digit_12" = "The equipment ID is 12 digits";-->
+    <string name="product_id_criteria">מזהה המוצר הוא 12 ספרות</string>
+
+    <!--Missing-->
+    <!--<string name="pin_code_criteria">Pin code should be 4 digits long</string>-->
+
+    <!--"forgot_password_description" = "Please enter your email address\nand we will send you a verification link";-->
+    <string name="reset_password_message">הזן את כתובת הדוא\"ל שלך \n ואנו נשלח לך קישור לאימות</string>
+
+    <!--"email_address" = "Email Address"; // Translation changed (conflict)-->
+    <!--<string name="email_address">Email Address</string>-->
+
+    <!--"send_title" = "Send";-->
+    <string name="send">שלח</string>
+
+    <!--Coming from server-->
+    <!--<string name="email_sent_successfully">Email sent successfully</string>-->
+
+    <!--"reset_password_title" = "RESET PASSWORD";-->
+    <string name="reset_password">אפס את הסיסמה</string>
+
+    <!--"email_verification_1" = "We’ve sent an email to:";-->
+    <string name="a_link_to_reset_your_password_has_been_sent">שלחנו דוא\"ל לכתובת הבאה:"\n%s</string>
+
+    <!--"reset_verification_2" = "with a link to reset your password";-->
+    <string name="reset_verification_2">עם קישור לאיפוס הסיסמה</string>
+
+    <!--"resend_verification_mail" = "Resend Verification Email";-->
+    <string name="resend_verification_email">שלח בשנית דוא\"ל לאימות</string>
+
+    <!--"register_description" = "Please fill in your details\nto create your account";-->
+    <string name="register_address_subtext">מלא את פרטיך \n כדי ליצור את חשבונך</string>
+
+    <!--"confirm_password" = "Confirm password";-->
+    <string name="confirm_password">אשר סיסמה</string>
+
+    <!--"email_doesnt_exist" = "Email doesn't exist";-->
+    <string name="email_does_not_exist">כתובת דוא\"ל לא קיימת</string>
+
+    <!--Missing-->
+    <!--<string name="surname">Surname</string>-->
+
+    <!--"next_title" = "Next";-->
+    <string name="next">הבא</string>
+
+    <!--Missing-->
+    <!--<string name="password_must_contain">Password must contain:</string>-->
+
+    <!--Missing-->
+    <!--<string name="password_rules">Minimum of 8 characters,\n at least one Small case letter,\n at least one Upper case letter,\n at least one digit,\n at least one special character !@#\$%\^&amp;</string>-->
+
+    <!--Missing-->
+    <!--<string name="bad_short_password">minimum of 8 characters</string>-->
+    <!--<string name="bad_password_digit">Please enter a correct password -At least one digit</string>-->
+    <!--<string name="bad_password_lowercase">Please enter a correct password -At least one Lower case charcter</string>-->
+    <!--<string name="bad_password_uppercase">Please enter a correct password -At least one Upper case charcter</string>-->
+    <!--<string name="bad_password_special_charcter">Please enter a correct password -At least one Special charcter !@#\$%\^&amp; </string>-->
+
+    <!--Missing-->
+    <!--<string name="bad_long_first_name">maximum of 64 characters</string>-->
+    <!--<string name="bad_long_last_name">maximum of 64 characters</string>-->
+    <!--<string name="bad_short_name">minimum of 1 character</string>-->
+
+    <!--"MIC" = "MIC";-->
+    <string name="mic">מיקרופון</string>
+
+    <!--Missing-->
+    <!--<string name="system_default">System default</string>-->
+
+    <!--"emergency_call" = "Emergency call";-->
+    <string name="emergency_call">שיחת חרום</string>
+
+
+
+    <!--"welcome_to_the" = "WELCOME TO THE";-->
+    <string name="verify_your_account_title">ברוכים הבאים ל</string>
+
+    <!--"new_iRisco" = "NEW iRISCO";-->
+    <string name="new_iRisco">iRisco חדש</string>
+
+    <!--"verify_account" = "Please verify your account.";-->
+    <string name="verify_your_account_suffix">אנא, אמת את החשבון שלך.</string>
+
+    <!--"verify_days_left" = "You have %1$ld days to verify your account";-->
+    <string name="you_have_days_to_verify">יש לך %d ימים לאימות החשבון שלך</string>
+
+    <!--"do_this_later" = "Do this later";-->
+    <string name="do_this_later">עשה את זה מאוחר יותר</string>
+
+    <!--"verify_details_title" = "Verify details";-->
+    <string name="verify_details">אמת פרטים</string>
+
+    <!--"verify_email_title" = "VERIFY YOUR EMAIL";-->
+    <string name="verify_your_email">אמת את הדוא\"ל שלך</string>
+
+    <!--"verify_email_description" = "Please fill in your email address\nit will be your new login Username";-->
+    <string name="verify_your_email_msg">נא למלא את כתובת הדוא\"ל שלך \nזה יהיה שם המשתמש החדש שלך</string>
+
+    <!--"logged_in_as" = "You are logged in as: ";-->
+    <string name="your_are_logged_in_ass">אתה מחובר כ:</string>
+
+    <!--"verify_email_title1" = "We’ve sent you an email with a"-->
+    <string name="verify_email_title1">שלחנו לך הודעת אימייל עם</string>
+
+    <!--"verify_email_title2" = "link to complete your account verification"-->
+    <string name="verify_email_title2">קישור כדי להשלים את אימות החשבון שלך</string>
+
+    <!--"no_recieve_mail" = "Didn’t receive an email? ";-->
+    <string name="no_recieve_mail">לא קיבלת דוא\"ל?</string>
+
+    <!--"verify_email_message" = "A verification email was sent to you.\nPlease check your mailbox to procceed with the verification process.";-->
+    <string name="verification_email_sent">הודעת אימות נשלחה אליך. \n בדוק את תיבת הדואר שלך כדי להמשיך בתהליך האימות.</string>
+
+    <!--"system_default" = "System default";-->
+    <string name="system_default">ברירת המחדל של המערכת</string>
+
+    <!-- STEP 3-->
+    <!--"no_network" = "No Network";-->
+    <string name="no_network">אין רשת</string>
+
+    <!--"error" = "Error";-->
+    <string name="error">שגיאה</string>
+
+    <!--"pin_code_criteria" = "Pin code should be 4 digits long";-->
+    <string name="pin_code_criteria">הקוד צריך להיות באורך 4/6 ספרות</string>
+
+    <!--"email_sent_successfully" = "EMAIL SENT\nSUCCESSFULLY";-->
+    <string name="email_sent_successfully">דואר אלקטרוני נשלח \n בהצלחה</string>
+
+    <!--"bad_long_first_name" = "maximum of 64 characters";-->
+    <string name="bad_long_first_name">מקסימום 64 תווים</string>
+
+    <!--"bad_short_name" = "minimum of 1 character";-->
+    <string name="bad_short_name">מינימום של תו אחד</string>
+
+    <!--"bad_long_first_name" = "maximum of 64 characters";-->
+    <string name="bad_long_last_name">מקסימום 64 תווים</string>
+
+    <!--"please_select_one_radio_button" = "Please select one Radio button from the given options";-->
+    <string name="select_option">בחר באחד מהאפשרויות הנתונות</string>
+
+    <!--"site_added" = "SITE ADDED\nSUCCESSFULLY";-->
+    <string name="site_added_successfully">האתר התווסף \n בהצלחה</string>
+
+    <!--"please_verify_account_details" = "Please verify your account details";-->
+    <string name="please_verify_account_details">אמת את פרטי החשבון שלך</string>
+
+    <!--"email_verification_success" = "EMAIL VERIFICATION\nSUCCEEDED";-->
+    <string name="email_verification_success">אימות דואר אלקטרוני \n הסתיים בהצלחה</string>
+
+    <!--"site_updated_successfully" = "SITE UPDATED SUCCESSFULLY";-->
+    <string name="site_updated_successfully">האתר עודכן בהצלחה</string>
+
+    <!--"invalid_email_try_again" = "Invalid email, please try again";-->
+    <string name="invalid_email_please_try_again">כתובת דוא\"ל לא חוקית, נסה שוב</string>
+
+    <!--"password_recovery_failed" = "Password recovery failed";-->
+    <string name="password_recovery_failed">שחזור הסיסמה נכשל</string>
+
+    <!--"forgot_password_link_expire" = "The link you've followed has been already used, expired or is invalid";-->
+    <string name="password_recovery_failed_message">הקישור שפתחת היה כבר כבר בשימוש, פג או אינו חוקי</string>
+
+    <!--"invitation_failed" = "Invitation validation failed";-->
+    <string name="invitation_validation_failed">אימות ההזמנה נכשל</string>
+
+    <!--"invitation_failed_message" = "The invitation has been already accepted, rejected, expired or invalid.";-->
+    <string name="invitation_validation_failed_message">ההזמנה כבר התקבלה, נדחתה, פגה או פגומה.</string>
+
+    <!--"verify_account_title" = "VERIFY YOUR ACCOUNT";-->
+    <string name="verify_your_account">אמת את חשבונך</string>
+
+    <!--"email_verification_1" = "We’ve sent an email to:";-->
+    <string name="verify_your_account_send_email_to">שלחנו דוא\"ל לכתובת הבאה:</string>
+
+    <!--"email_verification_2" = "with a link to complete your account";-->
+    <string name="verify_your_account_send_email_1">עם קישור להשלמת הרישום שלך</string>
+
+    <!--"email_verification_3" = "verification, the link will expire after 1 week";-->
+    <string name="verify_your_account_send_email_2">קישור האימות יפוג לאחר שבוע אחד</string>
+
+    <!--"select_product" = "Select any one from following:\n\nControl Panel.\nIP Camera.\nSmarthome Gateway.";-->
+    <string name="choose_product_type_info">בחר אחד מהפעולות הבאות: \n\n לוח הבקרה. \n מצלמה. \n רכזת בית חכם.</string>
+
+    <!--"SNfor_control_panel" = "SN for Control Panel : Must be of 15 digits.\n\nMAC for Camera/Smarthome : Must be of 12 digits.";-->
+    <string name="product_id_info">מספר סיריאלי עבור לוח הבקרה: חייב להיות בן 15 ספרות. \n\n כתובת MAC עבור מצלמה / בית חכם: חייב להיות בן 12 ספרות.</string>
+
+
+
+    <string name="sites_list">אתרים</string>
+
+    <!--"emergency-number" = "Emergency number";-->
+    <string name="emergency_number">מספר חירום:</string>
+
+    <!--"no" = "No";-->
+    <string name="no">לא</string>
+
+    <!--"invalid_pin_code" = "Invalid PIN code";-->
+    <string name="invalid_pin_code">קוד שגוי</string>
+
+    <!--"try_again" = "Try again";-->
+    <string name="try_again">נסה שוב</string>
+
+    <!--"new_password_validation" = "Password must contain:\n\nMinimum of 8 characters,\nat least one Small case letter,\nat least one Upper case letter,\nat least one digit,\nat least one special character !@#$%^&";-->
+    <string name="new_password_validation">לפחות 8 תווים. \nאות קטנה אות גדולה. \nלפחות ספרה אחת ותו מיוחד אחד.</string>
+
+    <!--"invalid_city" = "Invalid city, please try again";-->
+    <string name="empty_city">שם עיר לא חוקי, נסה שוב</string>
+
+    <!--"invalid_address" = "Invalid address, please try again";-->
+    <string name="empty_address">כתובת לא חוקית, נסה שוב</string>
+
+    <!--"invalid_zip" = "Invalid zip code, please try again";-->
+    <string name="empty_zipcode">מיקוד לא חוקי, נסה שוב</string>
+
+    <!--"invalid_phone_no" = "Invalid phone number, please try again";-->
+    <string name="empty_phone_number">מספר טלפון לא חוקי, נסה שוב</string>
+
+    <!--"invalid_country" = "Invalid country, please try again";-->
+    <string name="please_chose_country">ארץ לא חוקית, נסה שוב</string>
+
+    <!--"invalid_state" = "Invalid state/province, please try again";-->
+    <string name="please_chose_state">מדינה / מחוז לא חוקיים, נסה שוב</string>
+
+    <string name="general_server_error">אירעה שגיאה, נסה שוב מאוחר יותר. אם הבעיה נמשכת, פנה לתמיכה. קוד שגיאה: %s</string>
+    <string name="invalid_email">כתובת דוא\"ל לא חוקית!</string>
+    <string name="to_login_to_a_site">כדי להתחבר לאתר, תחילה עליך לאמת את חשבונך!</string>
+    <string name="your_account_has_been_locked">החשבון שלך נעול. נסה שוב מאוחר יותר.</string>
+    <string name="failed_password_complexity_policy">מדיניות המורכבות של הסיסמאות נכשלה!</string>
+    <string name="user_already_registered">המשתמש עם הדוא\"ל הזה כבר רשום.</string>
+    <string name="failed_to_send_email">שליחת הודעת האימות של רישום המשתמש נכשלה!</string>
+    <string name="user_already_verified">המשתמש כבר אומת.</string>
+    <string name="incorrect_current_password">הסיסמה הנוכחית שגויה!</string>
+    <string name="user_account_already_verified">חשבון המשתמש כבר אומת!</string>
+    <string name="invalid_validation_key">מפתח אימות לא חוקי! %s</string>
+    <string name="invalid_password_reset_key">מפתח איפוס סיסמה לא חוקי! %s</string>
+    <string name="password_reset_key_expired">מפתח האיפוס של הסיסמה פג! %s</string>
+    <string name="invalid_validation_key_expired">מפתח אימות לא חוקי! תוקף מפתח האימות לשם המשתמש פג! %s</string>
+    <string name="username_validation_key_expired">פג תוקפו של מפתח אימות המשתמש! %s</string>
+    <string name="please_repeat_process">אנא חזור על התהליך.</string>
+    <string name="email_already_exist">משתמש עם כתובת דוא\"ל זו כבר קיים.</string>
+    <string name="the_internet_connection_appears_to_be_offline">אין רשת, נסה מאוחר יותר</string>
+
+
+    <!--"control_panel" = "Control Panel";-->
+    <string name="control_panel">לוח בקרה</string>
+    <!--"IP_camera" = "IP camera";-->
+    <string name="IP_camera">מצלמת רשת</string>
+    <!--"smarthome_getway" = "Smarthome Gateway";-->
+    <string name="smarthome_getway">רכזת בית חכם</string>
+
+
+    <!--"invalid_equipment_sn_mac" = "The equipment SN/MAC is invalid";-->
+    <string name="create_resault_registration_equipmentidvalidationfailed3">כתובת MAC או מספר סידורי אינו חוקי</string>
+    <!--"equipment_inuse"  = "The equipment is already in use";-->
+    <string name="create_resault_registration_equipmentusedbyanothersite7">הציוד כבר בשימוש</string>
+    <!--"pin_not_match" = "PIN does not match";-->
+    <string name="create_resault_registration_equipmentpindoesnotmatch5">קוד אבטחה שגוי</string>
+    <string name="username_pwd_incorrect">שם המשתמש / סיסמה אינם נכונים</string>
+    <string name="your_account_has_been_locked_out">החשבון שלך נעול.\nנסה שוב בעוד 5 דקות.</string>
+    <string name="password_new_validation">הסיסמה חייבת להכיל: \n\nמינימום 8 תווים המכילים לפחות אות אחת גדולה,אות קטנה אחת, מספר אחד ואחד מסמלי התווים המיוחדים (כל תווי המקלדת שאינם מוגדרים כאותיות או ספרות)</string>
+    <string name="snfor_control_panel_video_recorder">מספר סיריאלי של לוח הבקרה: חייב להיות בן 15 ספרות. \nכתובת MAC עבור מצלמה,רכזת בית חכם ומערכת הקלטה: חייב להיות בן 12 תווים.</string>
+    <string name="apply_all_site">החל על כל האתרים</string>
+    <string name="video_recorder_not_connected">מערכת הקלטה\nלא מחוברת</string>
+    <string name="no_video_clips_were_recorded">לא הוקלטו סירטונים. ההקלטות יופיעו כאן.</string>
+    <string name="nav_drawer_items_12">הקלטות וידאו</string>
+    <string name="dont_show_this_again">אל תציג זאת שוב</string>
+    <string name="download">הורד</string>
+    <string name="customize_gallery_description">גרור את המסכים כדי לשנות את סדר המצלמות.</string>
+    <string name="create_resault_registration_EmailInvalid16">כתובת דוא\"ל לא חוקית!</string>
+    <string name="email_resend_successfully">נשלח דוא\\\"ל \nבהצלחה</string>
+    <string name="enable_biometry">אפשר ביומטרי</string>
+    <string name="finish">סיים</string>
+    <string name="go_to_login">עבור אל התחברות</string>
+    <string name="how_we_use_your_data">כיצד אנו משתמשים בנתונים שלך</string>
+    <string name="i_do_not_want_to_receive_information_about_risco_products">" מיוחדות באמצעות דוא\\\"ל / סמס.אני לא רוצה לקבל מידע על המוצרים של ריסקו והצעות מיוחדות באמצעות דוא\\\"ל / סמס."</string>
+    <string name="missing_sites_message">אם היה לך יותר ממערכת\nאחת, אחזר אותם כאתרים</string>
+    <string name="i_have_carefully_read">קראתי, הבנתי וקיבלתי את <ct> התנאים וההגבלות </ct> ואת <ct> מדיניות הפרטיות </ct> כולל איסוף ושימוש במידע אישי למטרות המפורטות במדיניות הפרטיות. אני מסכים על רצוני החופשי, כל ידי לחיצה על \\\"צור חשבון חדש\\\" למטה</string>
+    <string name="important_notice">הודעה חשובה</string>
+    <string name="invalid_entry_try_again">ערך לא חוקי. נסה שוב</string>
+    <string name="invalid_phone_number">מספר טלפון לא חוקי, נסה שוב</string>
+    <string name="free_control_message2">"הפונקציונליות שלו זההלאלה שהיו לך קודם. "</string>
+    <string name="light">תאורה</string>
+    <string name="live">חי</string>
+    <string name="bad_long_phone_number">מקסימום 24 תווים</string>
+    <string name="mic_capitalcase">מיקרופון</string>
+    <string name="more_info">מידע נוסף</string>
+    <string name="new_password">סיסמה חדשה</string>
+    <string name="no_hdd_message">לא מותקן דיסק קשיח.\nמערכת ההקלטה אינה יכולה להקליט</string>
+    <string name="no_thanks">לא תודה</string>
+    <string name="notification">הודעות</string>
+    <string name="or">או</string>
+    <string name="verify_your_details_personal_sub_title">פרטים אישיים</string>
+    <string name="playback">ניגון</string>
+    <string name="please_create_a_new_password">צור סיסמה חדשה</string>
+    <string name="please_login">בבקשה היכנס לחשבון שלך</string>
+    <string name="please_select_one_of_the_following_options">בחר אחת מהאפשרויות הבאות:</string>
+    <string name="please_try_again">בבקשה נסה שוב</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="privacy_policy_">מדיניות פרטיות</string>
+    <string name="quick">מהיר</string>
+    <string name="record_capitalcase">הקלט</string>
+    <string name="ring">צלצל</string>
+    <string name="search_site">חיפוש אתר...</string>
+    <string name="see_our_privacy_policy_for_more_details">עיין ב <ct> מדיניות הפרטיות שלנו </ct> לקבלת פרטים נוספים</string>
+    <string name="set_preset">"הגדר#%s "</string>
+    <string name="site_address">כתובת האתר</string>
+    <string name="site_locked">האתר נעול למשך 90 שניות</string>
+    <string name="staying_in_touch">שמור על קשר</string>
+    <string name="system_arm_failed">דריכת מערכת נכשלה</string>
+    <string name="product_id_criteria_access_control">מזהה המוצר הוא 15 ספרות</string>
+    <string name="message_max_quickbuttons">המספר המרבי המותר של לחצנים מהירים הוא 9</string>
+    <string name="panel_">המערכת אינה מחוברת</string>
+    <string name="free_control_message">כדי להמשיך לעבוד עם המערכת \nשלך, הורד את היישום iRISCO החדש:</string>
+    <string name="today_sentence_case">היום</string>
+    <string name="site_locked_description">יותר מדי ניסיונות קוד זיהוי שגויים</string>
+    <string name="touch_id">טביעת אצבע</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="use_pin_code_to_login">השתמש בקוד כדי להתחבר</string>
+    <string name="user_address">כתובת משתמש</string>
+    <string name="use_site_address">השתמש בכתובת אתר</string>
+    <string name="verify_your_details_title">אמת את פרטיך</string>
+    <string name="verify_your_details">אמת את פרטיך</string>
+    <string name="video_recorder_leadingcase">מערכת הקלטה</string>
+    <string name="video_recorder">מערכת הקלטה</string>
+    <string name="verifiy_your_email_desc">שלחנו לך הודעת אימייל עםקישור כדי להשלים את אימות החשבון שלך</string>
+    <string name="biometrics_message3">אנחנו רק רוצים לוודא\nשזה באמת אתה!</string>
+    <string name="we_would_love_to_stay_in_touch">נשמח לשמור על קשר ולשלוח לך מידע, יחד עם הצעות הקשורות למוצרי ריסקו.</string>
+    <string name="verify_your_account_send_email_desc">עם קישור להשלמת הרישום שלךקישור האימות יפוג לאחר שבוע אחד</string>
+    <string name="wrong_touchid">מזהה טביעת אצבע שגוי</string>
+    <string name="invite_for_another_new_user">אתה מחובר כעת כ-%s. \nכדי לאשר את ההזמנה \nעבור%s אתה תעבור בין החשבונות.</string>
+    <string name="invite_for_another_existing_user">-%s \nהמערכת תנתק אותך.</string>
+    <string name="your_device_appears_to_be_rooted">האפליקציה אינה תומכת במכשירים עם קושחה שאינה מקורית</string>
+    <string name="app_does_not_support_rooted_devices">%s האפליקציה אינה תומכת במכשירים עם קושחה שאינה מקורית</string>
+    <string name="message_dialog_password_changed">הסיסמה שלך שונתה בהצלחה</string>
+    <string name="default_group_name_l">קבוצת ברירת מחדל</string>
+    <string name="customize_gallery">התאמה אישית לגלריה</string>
+    <string name="customize_gallary">התאמה אישית לגלריה</string>
+    <string name="current_site">האתר הנוכחי</string>
+    <string name="registration_continue">המשך</string>
+    <string name="choose_time_zone">בחר אזור זמן</string>
+    <string name="choose_state">בחר מדינה</string>
+    <string name="choose_product">בחר סוג מוצר</string>
+    <string name="would_you_like_to_switch_to_this_site">האם ברצונך לעבור לאתר זה?</string>
+    <string name="all_cameras">כל המצלמות</string>
+    <string name="site_updated_fail">עדכון אתר נכשל</string>
+    <string name="please_select_one_radio_button">בחר באחד מהאפשרויות הנתונות</string>
+    <string name="registration_complete_site_created_successfully">ההרשמה הושלמה \\n האתר נוצר בהצלחה</string>
+    <string name="you_are_currently_logged_in_1">-%s \\n המערכת תנתק אותך.</string>
+    <string name="you_are_currently_logged_in_2">אתה מחובר כעת כ-%1$s. \\n כדי לאשר את ההזמנה \\n עבור%2$s אתה תעבור בין החשבונות.</string>
+    <string name="email_sent_successfully">דואר אלקטרוני נשלח \\n בהצלחה</string>
+    <string name="authorization">אישור</string>
+    <string name="site_address">כתובת האתר</string>
+    <string name="invalid_state">מדינה / מחוז לא חוקיים, נסה שוב</string>
+    <string name="risco_group">קבוצת ריסקו</string>
+    <string name="barcode_no_scan_error2">המכשיר אינו יכול לסרוק ברקודים</string>
+    <string name="barcode_no_scan_error1">המכשיר שלך לא יכול לסרוק ברקודים בבקשה להזין את</string>
+    <string name="mannual_entry_serial">הזן את המספר הסידורי של המוצר באופן ידני</string>
+    <string name="no_thanks">לא תודה</string>
+    <string name="retrieve_another_panel">אחזר אתר נוסף</string>
+    <string name="state_province">מדינה / מחוז</string>
+    <string name="use_address">השתמש בכתובת החשבון שלי</string>
+    <string name="invalid_pincode">קוד לא חוקי, נסה שוב</string>
+    <string name="pin_title">קוד</string>
+    <string name="product_id">מזהה מוצר</string>
+    <string name="site_name">שם אתר</string>
+    <string name="retrieve_button_title">החזר</string>
+    <string name="invalid_password">סיסמה לא חוקית, אנא בדוק ונסה שוב</string>
+    <string name="empty_user">שם המשתמש אינו יכול להיות ריק</string>
+    <string name="fill_details_panel">מלא את פרטי המערכת \\n שברצונך לאחזר</string>
+    <string name="retrieve_title">אחזר אתר</string>
+    <string name="retrieve_sites">שחזר אתרים</string>
+    <string name="create_new_site">צור אתר חדש</string>
+    <string name="add_new_site">הוסף אתר חדש</string>
+    <string name="sites">אתרים</string>
+    <string name="resend_link">שלח קישור מחדש</string>
+    <string name="do_it_now">זה הזמן, עשה זאת כעת</string>
+    <string name="verify_email_message">הודעת אימות נשלחה אליך. \\n בדוק את תיבת הדואר שלך כדי להמשיך בתהליך האימות.</string>
+    <string name="personal_details">פרטים אישיים</string>
+    <string name="verify_your_details">אמת את פרטיך</string>
+    <string name="logged_in_as">אתה מחובר כ:</string>
+    <string name="verify_email_description">נא למלא את כתובת הדוא\\\"ל שלך \\nזה יהיה שם המשתמש החדש שלך</string>
+    <string name="verify_email_title">אמת את הדוא\\\"ל שלך</string>
+    <string name="do_this_later">עשה את זה מאוחר יותר</string>
+    <string name="verify_details_title">אמת פרטים</string>
+    <string name="verify_days_left">יש לך %1$ld ימים לאימות החשבון שלך</string>
+    <string name="verify_account">אנא, אמת את החשבון שלך.</string>
+    <string name="welcome_desc_line4">חשבון יחיד באמצעות</string>
+    <string name="welcome_desc_line3">גישה לכל המערכות שלך מ</string>
+    <string name="welcome_desc_line2">הגרסה כאן. עכשיו אתה יכול</string>
+    <string name="welcome_desc_line1">חדש יותר, טוב יותר, יעיל יותר</string>
+    <string name="new_iRisco">iRisco חדש</string>
+    <string name="welcome_to_the">ברוכים הבאים ל</string>
+    <string name="complete_registration_title">השלם רישום</string>
+    <string name="resend_verification_mail">שלח בשנית דוא\\\"ל לאימות</string>
+    <string name="no_recieve_mail">לא קיבלת דוא\\\"ל?</string>
+    <string name="email_verification_3">קישור האימות יפוג לאחר שבוע אחד</string>
+    <string name="email_verification_2">עם קישור להשלמת הרישום שלך</string>
+    <string name="email_verification_1">שלחנו דוא\\\"ל לכתובת הבאה:</string>
+    <string name="verify_account_title">אמת את חשבונך</string>
+    <string name="email_success">נשלח דוא\\\"ל \\nבהצלחה</string>
+    <string name="email_fail">נשלח דוא\\\"ל \\nנכשל</string>
+    <string name="send_title">שלח</string>
+    <string name="use_site_address">השתמש בכתובת אתר</string>
+    <string name="site_details">פרטי האתר</string>
+    <string name="create_new_site_title">צור אתר חדש</string>
+    <string name="email_doesnt_exist">כתובת דוא\\\"ל לא קיימת</string>
+    <string name="invalid_email_try_again">כתובת דוא\\\"ל לא חוקית, נסה שוב</string>
+    <string name="zip_code">מיקוד</string>
+    <string name="address">כתובת</string>
+    <string name="phone_number">מספר טלפון</string>
+    <string name="confirm_password">אשר סיסמה</string>
+    <string name="register_title">הרשם</string>
+    <string name="control_panel">לוח בקרה</string>
+    <string name="serial_no_error">הזן מספר סיריאלי חוקי</string>
+    <string name="MIC">מיקרופון</string>
+    <string name="wrong_pin">קוד שגוי, אנא נסה שנית</string>
+    <string name="forgot_password_description">הזן את כתובת הדוא\\\"ל שלך \\n ואנו נשלח לך קישור לאימות</string>
+    <string name="forgot_password_title">שכחתי סיסמה</string>
+    <string name="forgot_password">שכחת סיסמה?</string>
+    <string name="enter">היכנס</string>
+    <string name="next_title">הבא</string>
+    <string name="privacy_policy">מדיניות פרטיות</string>
+    <string name="i_have_carefully_read">קראתי, הבנתי וקיבלתי את &lt;ct&gt; התנאים וההגבלות &lt;/ct&gt; ואת &lt;ct&gt; מדיניות הפרטיות &lt;/ct&gt; כולל איסוף ושימוש במידע אישי למטרות המפורטות במדיניות הפרטיות. אני מסכים על רצוני החופשי, כל ידי לחיצה על \\\"צור חשבון חדש\\\" למטה</string>
+    <string name="how_we_use_data">כיצד אנו משתמשים בנתונים שלך</string>
+    <string name="at_any_time">בכל עת תוכל לבטל את הרישום לקבלת מידע והצעות על מוצרי ריסקו לדוא\\\"ל / סמס על ידי לחיצה על הקישור לביטול רישום בדוא\\\"ל שנשלח לתיבת הדואר הנכנס שלך או על ידי שליחת הודעת אימייל לכתובת &lt;ct&gt; risco-dpo@riscogroup.com &lt;/ct&gt;</string>
+    <string name="i_do_not_want">\u0020מיוחדות באמצעות דוא\\\"ל / סמס.אני לא רוצה לקבל מידע על המוצרים של ריסקו והצעות מיוחדות באמצעות דוא\\\"ל / סמס.</string>
+    <string name="i_would_like">אני רוצה לקבל מידע על המוצרים של RISCO והצעות מיוחדות באמצעות דוא\\\"ל / סמס.</string>
+    <string name="please_select">בחר אחת מהאפשרויות הבאות:</string>
+    <string name="see_our_privacy_policy">עיין ב &lt;ct&gt; מדיניות הפרטיות שלנו &lt;/ct&gt; לקבלת פרטים נוספים</string>
+    <string name="we_would_love_to_in_touch">נשמח לשמור על קשר ולשלוח לך מידע, יחד עם הצעות הקשורות למוצרי ריסקו.</string>
+    <string name="stay_in_touch">שמור על קשר</string>
+    <string name="str_continue">המשך</string>
+    <string name="settings_email_label">דואר אלקטרוני</string>
+    <string name="settings_service_department_label">מחלקת שרות</string>
+    <string name="settings_monitoring_station_label">מוקד אבטחה</string>
+    <string name="preset_walkthrough_screen_4">לחץ להגדיר מיקום או להגדיר מחדש מיקום קיים</string>
+    <string name="preset_walkthrough_screen_3">לחץ על מיקום על מנת לראות או לשנותה</string>
+    <string name="preset_walkthrough_screen_2">סובב תצוגה ב-180°</string>
+    <string name="preset_walkthrough_screen_1">חזור למיקום בית</string>
+    <string name="search">חפש</string>
+    <string name="apply_to_all_cameras">מצלמות</string>
+    <string name="add_quick_buttons">הוסף לחצן</string>
+    <string name="already_armed">מערכת דרוכה</string>
+    <string name="already_disarmed">מערכת מנוטרלת</string>
+    <string name="partial_arm">דריכה חלקית</string>
+    <string name="all_system_disarmed">מערכת דרוכה</string>
+    <string name="full_system_arm">דריכה מלאה</string>
+    <string name="apply_and_overwrite_this_quick_buttons_set_to_all_">אשר החלפה של לחצנים מהירים אלו על כל המצלמות</string>
+    <string name="are_you_sure_want_to_delete">האם אתה בטוח שברצונך למחוק</string>
+    <string name="Ring">צלצל</string>
+    <string name="Quick">מהיר</string>
+    <string name="Light">תאורה</string>
+    <string name="Beep">ביפ</string>
+    <string name="Default">ברירת מחדל</string>
+    <string name="Notification">צליל התראה</string>
+    <string name="string_default">ברירת מחדל</string>
+    <string name="notification_sound_setup">הגדרת צליל התרעה</string>
+    <string name="fully_open">פתיחה מלאה</string>
+    <string name="fully_close">סגירה מלאה</string>
+    <string name="value_opened">%d% פתוח</string>
+    <string name="fully_opened">פתיחה מלאה</string>
+    <string name="fully_closed">סגירה מלאה</string>
+    <string name="shutters_and_curtains">תריסים ווילונות</string>
+    <string name="quick_buttons">הוסף לחצנים מהירים \\n\\ n</string>
+    <string name="door_problem">בעיית דלת</string>
+    <string name="title_activity_notification_2_2">הודעות 2/2</string>
+    <string name="title_activity_notification_1_2">הודעות 1/2</string>
+    <string name="incorrect_time_zone">אנא בחר את אזור הזמן!</string>
+    <string name="IP_camera">מצלמת IP</string>
+    <string name="ip_camera">מצלמת IP</string>
+    <string name="pir_camera">מצלמת גלאי</string>
+    <string name="user_already_registered_create_result_12">המשתמש כבר רשום</string>
+    <string name="pin_code_4or6_digit">כאשר נדרש, הקוד הסודי הוא מספר בן 4 או 6 ספרות</string>
+    <string name="menu_nvr">מערכת ההקלטה</string>
+    <string name="all_sites">כל האתרים</string>
+    <string name="current_site">האתר הנוכחי</string>
+    <string name="search_site">חיפוש אתר...</string>
+    <!-- Loading NVR video -->
+    <string name="loading_stream">טוען את הוידיאו...</string>
+    <string name="no_installation_company">אין חברת התקנה עבור אתר זה</string>
+    <string name="installation_company_details">פרטי חברת ההתקנה</string>
+    <string name="installation_company">חברת התקנה</string>
+    <string name="apply_all_site">החל על כל האתרים</string>
+    <string name="emergency_number">מספר חרום</string>
+    <string name="push_notification">הודעה בדחיפה</string>
+    <string name="call_notification">הודעת צלצול</string>
+    <string name="push_type">סוג</string>
+    <string name="push_sound">צליל</string>
+    <string name="system_default">ברירת מחדל מערכת</string>
+    <string name="choose_icon">בחר סמל</string>
+    <!-- WRONG TOUCH ID -->
+    <string name="wrong_touch_id">מזהה טביעת אצבע שגוי</string>
+    <string name="please_try_again">בבקשה נסה שוב</string>
+    <string name="wrong_face_id">FACE ID שגוי</string>
+    <string name="use_pincode_to_login">השתמש בקוד כדי להתחבר</string>
+    <string name="or_OR">או</string>
+    <string name="to_verify_your_account">כדי לאמת את חשבונך</string>
+    <string name="verify_days_left_new">%1$ld ימים נשארו</string>
+    <string name="Verify_Your_Account_new">אמת את חשבונך</string>
+    <string name="verify_email_title2_new">קישור כדי להשלים את האימות שלך</string>
+    <string name="verify_today">אנא אמת את החשבון שלך היום</string>
+    <string name="please_check_inbox">בדוק את תיבת הדואר שלך כדי להמשיך בתהליך האימות.</string>
+    <string name="check_you_inbox">בדוק בתיבת הדואר שלך</string>
+    <string name="verify_less_days_one">נשאר רק\u0020\u0020%1$ld ימים</string>
+    <string name="verify_less_days_left">נשאר רק\u0020\u0020%1$ld ימים</string>
+    <string name="verify_email_detail_info">שם המשתמש שלך %s יוחלף בכתובת הדוא\"ל שלך</string>
+    <string name="Please_fill_email">בבקשה מלא את כתובת הדוא\"ל שלך</string>
+    <string name="notification_events_items_new">בטיחות</string>
+    <string name="notification_events_items_1_new">מצב מערכת</string>
+    <string name="notification_events_items_2_new">SOS</string>
+    <string name="verify_must">עליך לאמת את החשבון שלך לפני שתוכל להתחיל להשתמש ב- iRISCO החדש.</string>
+    <string name="enter_a_valid_mail">אנא הזן כתובת דוא\"ל תקנית</string>
+    <string name="resend_email">שלח דוא\"ל מחדש</string>
+    <string name="pincode_length_limit_error">קוד הזיהוי הוא בין 1 ל- 6 ספרות</string>
+    <string name="imported_Notice">הודעה חשובה</string>
+    <string name="smarthome_getway">רכזת בית חכם</string>
+    <string name="register_description">מלא את הפרטים שלך\\n כדי ליצור את החשבון שלך</string>
+    <string name="confirm_if_panel">אם היה לך יותר ממערכת\\n אחת, אחזר אותם כאתרים</string>
+    <string name="city">עיר</string>
+    <string name="download_video">הורד וידאו</string>
+    <string name="choose_date">בחר תאריך</string>
+    <string name="choose_country">בחר ארץ</string>
+    <string name="camera_not_responding">מצלמה לא מגיבה</string>
+    <string name="beep">ביפ</string>
+    <string name="at_any_time_you_will_be_able_to_unsubscribe">בכל עת תוכל לבטל את הרישום לקבלת מידע והצעות על מוצרי ריסקו לדוא\\\"ל / סמס על ידי לחיצה על הקישור לביטול רישום בדוא\\\"ל שנשלח לתיבת הדואר הנכנס שלך או על ידי שליחת הודעת אימייל לכתובת <ct> risco-dpo@riscogroup.com </ct></string>
+    <string name="all_sites">כל האתרים</string>
+    <string name="all_cameras">כל המצלמות</string>
+    <string name="access_control">בקרת כניסה</string>
+    <string name="already_activated">כבר מופעל</string>
+    <string name="already_closed">כבר סגור</string>
+    <string name="already_deactivated">כבר מנותק</string>
+    <string name="already_off">כבר כבוי</string>
+    <string name="already_on">כבר דלוק</string>
+    <string name="already_open">כבר פתוח</string>
+    <string name="landscape_fullscreen">תמיד מסך מלא במצב אופקי</string>
+    <string name="system_not_ready_for_setting_text">פעולת דריכה נכשלה לפחות בקבוצה אחת. אנא בדוק את מצב המערכת שלך.</string>
+    <string name="enable_biometrics_msg">לפני שתוכל להשתמש בזיהוי ביומטרי \'זיהוי פנים\' כדי להתחבר, עליך להפעיל את האימות הביומטרי בהגדרות הטלפון שלך</string>
+    <string name="biometrics_error">שגיאה ביומטרית</string>
+    <string name="terms_of_use_message">על ידי לחיצה על הבא אני מקבל את תנאי השימוש</string>
+    <string name="change_nvr_internal_password">שנה סיסמת \nמערכת הקלטה</string>
+    <string name="check_your_email_for_password_reset_instructions">בדוק את הדואר האלקטרוני שלך לקבלת הוראות לאיפוס סיסמה.</string>
+    <string name="choose_site">בחר אתר</string>
+    <string name="save_clip_success">קליפ נשמר לגלריה</string>
+    <string name="closed">סגור</string>
+    <string name="complete_register">השלם רישום</string>
+    <string name="confirm_new_password">הקלד סיסמה בשנית</string>
+    <string name="connection_to_nvr_failed">החיבור למערכת ההקלטה נכשל</string>
+    <string name="general_error_message_no_error_code">לא ניתן להתחבר לשרת,אנא נסה מאוחר יותר. (Error code %d)</string>
+    <string name="error_server_unreachable">לא ניתן להגיע לשרת. בדוק את כתובת האתר שלך.</string>
+    <string name="could_not_retrieve_the_site">לא ניתן היה לאחזר את האתר</string>
+    <string name="create_new_account">צור חשבון חדש</string>
+    <string name="download_complete">הורדה הושלמה</string>
+    <string name="downloading">בתהליך הורדה...</string>
+    <string name="download_video">הורד וידאו</string>
+    <string name="enable_biometrics">אפשר זיהוי ביומטרי</string>
+    <string name="enter_fullscreen">כנס למסך מלא</string>
+    <string name="enter_site_name">הקלד שם אתר</string>
+    <string name="save_clip_failed">אירעה שגיאה בעת שמירת קליפ</string>
+    <string name="external_storage_not_available">אחסון חיצוני אינו זמין</string>
+    <string name="face_id">זיהוי פנים</string>
+    <string name="failed">נכשל</string>
+    <string name="empty_first_name">תיבת ה\"שם פרטי\" אינה יכולה להשאר ריקה</string>
+    <string name="get_freecontrol_v4">קבל את Free4Control החדש</string>
+    <string name="hello">שלום</string>
+    <string name="here">כאן</string>
+    <string name="i_only_have_one_site">יש לי רק אתר אחד</string>
+    <string name="i_would_like_to_receive_information_about_risco_products">אני רוצה לקבל מידע על המוצרים של RISCO והצעות מיוחדות באמצעות דוא\\\"ל / סמס.</string>
+    <string name="empty_last_name">תיבת ה\"שם משפחה\" אינה יכולה להשאר ריקה</string>
+    <string name="missing_sites_title">חסריך לך אתרים?</string>
+    <string name="no_connected_camera_video_recorder">אין מצלמות מחוברות\nלמערכת ההקלטה</string>
+    <string name="no_records">אין הקלטות</string>
+    <string name="site_empty_state">אין אתרים ברשימה</string>
+    <string name="not_enought_free_space">אין מספיק מקום אחסון</string>
+    <string name="password_criteria_failed">קריטריוני הסיסמה נכשלו, אנא בדוק את ההוראות.</string>
+    <string name="password_did_not_match_with_confirm_password">הסיסמה לא תואמת לאישור הסיסמה.</string>
+    <string name="password_does_not_meet_requirements">הסיסמה אינה עומדת בדרישות</string>
+    <string name="passwords_does_not_match">סיסמאות לא תואמות</string>
+    <string name="perimeter_arm">דרוך היקפית</string>
+    <string name="touch_id_login_description">הנח את האצבע על החיישן כדי להתחבר</string>
+    <string name="create_resault_registration_rcinstancenotregistered14">שרות ענן ריסקו לא רשום</string>
+    <string name="recording_cannot_start">ההקלטה לא יכולה להתחיל.</string>
+    <string name="recording_stopped">הקלטה הופסקה</string>
+    <string name="create_resault_registration_equipmentusedbycompany8">רישום הציוד בשימוש על ידי חברה</string>
+    <string name="create_resault_registration_internalerror2">שגיאה פנימית ברישום</string>
+    <string name="create_resault_registration_succeeded0">ההרשמה הסתיימה בהצלחה</string>
+    <string name="create_resault_registration_unautherized1">רישום לא מורשה</string>
+    <string name="resend_reset_password">שלח שוב קישור לאיפוס סיסמה</string>
+    <string name="risco_group_change_announcement">RISCO Group שינוי הודעה</string>
+    <string name="search_camera_name">חפש שם מצלמה</string>
+    <string name="create_resault_registration_SiteLocationDetailsMissing17">פרטי מיקום האתר חסרים</string>
+    <string name="empty_country_state">תיבת ה\"מדינה\" אינה יכולה להשאר ריקה</string>
+    <string name="surname">שם משפחה</string>
+    <string name="system_armed_failed">דריכת מערכת נכשלה</string>
+    <string name="system_not_ready_for_setting_header">מערכת אינה מוכנה לדריכה</string>
+    <string name="system_not_ready_for_setting_partition">המערכת אינה מוכנה לדריכה מלאה:</string>
+    <string name="take_photo">צלם תמונה</string>
+    <string name="terms_and_conditions_">תנאי שימוש</string>
+    <string name="terms_of_use">תנאי שימוש</string>
+    <string name="create_resault_registration_equipmentnotaccessible15">הציוד אינו נגיש</string>
+    <string name="create_resault_registration_equipmentnotsupported10">אין תמיכה בציוד זה</string>
+    <string name="create_resault_registration_equipmentusedbyanothercloud9">הציוד בשימוש של אתר אחר</string>
+    <string name="error_max_characters">שדה הקשר חייב להיות מחרוזת או סוג מערך עם אורך מרבי של 255 \'.</string>
+    <string name="message_notifications_max_followers">חרגת מהמספר המרבי של עוקבים</string>
+    <string name="there_are_not_recordings_for_the_day">אין הקלטות עבור היום</string>
+    <string name="no_control_panel_under_site">אין מערכת אבטחה \nתחת אתר זה</string>
+    <string name="error_player">אירעה שגיאה בעת האתחול של YouTubePlayer  (%1$s)</string>
+    <string name="resend_message">דוא\"ל זה כבר אומת, תוכל להיכנס לענן ריסקו באמצעות כתובת דוא\"ל זו, לחץ על %s כדי לעבור לדף \'ההתחברות\'</string>
+    <string name="fullscreen_tutorial">זוהי הדגמה אשר מראה כיצד להתמודד עם התנהגות מסך מלא. פעילות זו כוללת פריסות שונות עבור תמונות לאורך, לרוחב ולמלא מסך מלא. המשתמש יכול להיכנס למסך מלא על ידי שימוש בהגדרות הנגן או בתכנות על ידי המתכנת (כאן באמצעות לחצן). אם הפעילות שלך אינה כוללת פריסה אופקית, באפשרותך לבחור מעבר למצב אופקי באופן אוטומטי עם מסך מלא כאשר המכשיר מסובב לרוחב.</string>
+    <string name="touch_id_login">כניסה באימות ביומטרי</string>
+    <string name="password_nvr_info">השתמש ב 8 עד 31 תווים, כולל כל שילוב של האפשרויות הבאות: a-z, A-Z, Space ו- @. הסיסמה חייבת לכלול לפחות תו אלפבית אחד (a-z או A-Z) ולפחות תו מספרי אחד (0-9).</string>
+    <string name="use_touch_id">השתמש בזיהוי ביומטרי</string>
+    <string name="verification_successful">אימות חשבון הצליח</string>
+    <string name="verify_now">אמת עכשיו</string>
+    <string name="video">וידאו</string>
+    <string name="password_nvr_changed">סיסמה פנימית\nלמערכת הקלטה\nשונתה בהצלחה</string>
+    <string name="video_recorder_is_not_connected">מערכת הקלטה אינה מחוברת</string>
+    <string name="message_welcome">ברוכים הבאים ל iRisco האתר שלך מחכה לך</string>
+    <string name="verify_before_proceeding">עליך לאמת את חשבונך לפני שתמשיך</string><![CDATA[
+    >>>>>>> integration
+
+]]>
+
+
+    <string name="system_wnr">מערכת</string>
+    <string name="voice_module">כרטיס הודעות קוליות</string>
+    <string name="cellular_on_bus">רכיב COB</string>
+    <string name="siren">Siren</string>
+    <string name="wireless_expander">מרחיב אלחוטי</string>
+    <string name="power_supply">ספק כח</string>
+    <string name="keypad">לוח מקשים</string>
+    <string name="zone_expander">מרחיב אזורים</string>
+    <string name="bus_zone_expander">מרחיב אזור בס</string>
+    <string name="utility_output">מרחיב ממסרים</string>
+    <string name="uoexpander">מרחיב ממסרים</string>
+
+
+    <string name="confirmed_alarm">אזעקה מאושרת</string>
+    <string name="technician_tamper_or_reset">טמפר טכנאי או אתחול</string>
+    <string name="restore_alarm">איפוס אזעקה</string>
+    <string name="trouble">תקלה</string>
+    <string name="comm_trouble">תקלת תקשורת</string>
+    <string name="power_on_delay">השהיית אתחול</string>
+    <string name="default_jumper_On">מתג ברירת מחדל מופעל</string>
+    <string name="low_battery_reason">סוללה חלשה</string>
+    <string name="ac_trouble">תקלת מתח</string>
+    <string name="dual_path_fault">כישלון דיווח בשני ערוצים</string>
+    <string name="walk_test_mode">מצב בדיקת הליכה</string>
+    <string name="tamper_box">טמפר קופסה</string>
+    <string name="tamper_bell">טמפר סירנה</string>
+    <string name="tamper">טמפר</string>
+    <string name="lost">אבדן</string>
+    <string name="invalid">שגוי</string>
+    <string name="jamming">חסימה</string>
+    <string name="failed_to_exit">כשלון דריכה בזמן יציאה</string>
+    <string name="pin_locked_title">האתר נעול למשך 90 שניות</string>
+    <string name="pin_locked_subtitle">יותר מדי ניסיונות קוד זיהוי שגויים</string>
+    <string name="select_product_videorecorder_new">בחר כל אחד מהפעולות הבאות:\n\nמערכת אבטחה.\nמצלמה\nמערכת הקלט\nרכזת בית חכם.</string>
+
+    <string name="resign_from_site">נתק חשבון מהאתר</string>
+    <string name="resign_floating_site">ביקשת להימחק כמשתמש באתר %s. כתוצאה מכך, האתר יימחק וכל משתמשי הקצה שלו ינותקו ממנו. האם אתה בטוח שברצונך להימחק מהאתר?</string>
+    <string name="resign_proprotory_site">ביקשת להימחק כמשתמש מהאתר %s. כתוצאה מכך, חשבון האתר בענן ינותק מהציוד שלו וכל משתמשי הקצה שלו ינותקו ממנו. האם אתה בטוח שברצונך להימחק מהאתר?</string>
+    <string name="resign_non_proprotory_site">ביקשת להימחק כמשתמש באתר %s. כתוצאה מכך, האתר ימשיך לפעול תחת פיקוח של חברת ההתקנה שלך. כל משתמשי הקצה של האתר (במידה וישנם) ימשיכו להשתמש בו כבעבר. האם אתה בטוח שברצונך להימחק מהאתר?</string>
+    <string name="authorized_operate_specified_site">אינך מורשה לתפעל \\nאת האתר שצויין</string>
+    <string name="recorded_view">תצוגת הקלטה</string>
+    <string name="invalid_certificates">תעודת אבטחה אינה חוקית</string>
+    <string name="download_risco_app">הורד את אפליקציית iRisco !</string>
+    <string name="replace_with_risco">האפליקציה החדשה \"iRISCO\" תחליף את האפליקציה בקרוב.</string>
+    <string name="download_to_enjoy">הורד את היישום \"iRISCO\" החדש כדי ליהנות מהיכולות החדשות.</string>
+    <string name="download_risco_button_title">הורד את האפליקציה iRISCO</string>
+    <string name="myElas_not_supported">שים לב כי האפליקציה \"MyELAS\" לא תיתמך עוד ולא תשודרג.</string>
+    <string name="resign_non_grand_master_site">ביקשת להימחק כמשתמש מהאתר %s. לאחר המחיקה, לא תוכל עוד להיכנס לאתר זה. האם אתה בטוח שברצונך להמשיך?</string>
+    <string name="Enter_value_nbetween_0_to_255">הזן ערך\\n בין 0 ל 255</string>
+    <string name="Please_refer_to_the_manual_of_the_device">אנא עיין במדריך למשתמש של המכשיר</string>
+    <string name="WNR_NotSupported_error">לקבלת מידע נוסף, עבור אל: תפריט n\\&gt; זכרון אירועים</string>
+    <string name="biometrics_recognition">זיהוי ביומטרי</string>
+    <string name="disable_biometric_login">לבטל זיהוי ביומטרי</string>
+    <string name="some_detectors_are_not">חלק מהגלאים אינם מוכנים.\\n אנא סגור (או\n</string>
+    <string name="them_then_try_again">) אותם, \\n ואז נסה שוב</string>
+    <string name="check">בדוק</string>
+    <string name="for_the_possible">\n עבור המערכת האפשרית \n תקלות.</string>
+    <string name="group_is_not_ready">הקבוצה אינה מוכנה ל- %s</string>
+    <string name="make_sure_that">ודא שכל \n</string>
+    <string name="are_ready">מוכנים;</string>
+    <string name="group_is_not_ready_to_set">הקבוצה אינה מוכנה לדריכה</string>
+    <string name="system_fail_group_description">ודא שכל &lt;ct&gt;הגלאים&lt;/ct&gt;\\n\\n במצב מוכן; בדוק את &lt;ct&gt;היסטוריית אירועים&lt;/ct&gt; לאבחון בעיות מערכת.</string>
+    <string name="check_event_history">בדוק את &lt;ct&gt; היסטוריית אירועים &lt;/ct&gt; \\n אם יש בעיות במערכת.</string>
+    <string name="system_fail_bypass__description">חלק מהגלאים אינם מוכנים. \\n בבקשה סגור (או &lt;ct&gt; עקוף &lt;/ct&gt;) אותם, \\n ונסה שוב.</string>
+    <string name="air_conditioner">מיזוג אוויר</string>
+    <string name="ac_controller">בקר מיזוג אוויר</string>
+    <string name="ac_current">זרם</string>
+    <string name="ac_on">מופעל</string>
+    <string name="ac_off">כבוי</string>
+    <string name="ac_temp">טמפרטורה</string>
+    <string name="ac_mode">מצב</string>
+    <string name="ac_fan">אוורור</string>
+    <string name="ac_swing">פעולת תריס</string>
+    <string name="ac_temperature">טמפרטורה</string>
+    <string name="ac_fan_volume">עוצמת אוורור</string>
+    <string name="ac_fan_low">נמוך</string>
+    <string name="ac_fan_medium">בנוני</string>
+    <string name="ac_fan_high">גבוהה</string>
+    <string name="ac_fan_auto">אוטומטי</string>
+    <string name="ac_mode_heat">חימום</string>
+    <string name="ac_mode_cool">קירור</string>
+    <string name="ac_mode_dry">יבש</string>
+    <string name="enter_pincode_to_cancel_panic">הכנס קוד לביטול ההתראה</string>
+    <string name="Send_in_60_seconds">שלח\\nבעוד 60 שניות</string>
+    <string name="send_right_now">שלח\\nעכשיו</string>
+    <string name="send_a_panic_003f">לשלוח מצוקה?</string>
+    <string name="press_and_hold_for_3_seconds">לחץ והחזק למשך 3 שניות</string>
+    <string name="are_you_sure_you_want_to_cancel_alarm">האם אתה בטוח שברצונך לבטל את האזעקה?</string>
+    <string name="yes_cancel_alarm">כן, בטל את האזעקה</string>
+    <string name="no_keep_alarm">לא, השאר את האזעקה</string>
+    <string name="enter_pincode_to_cancel_alarm">הכנס קוד לביטול ההתראה</string>
+    <string name="panic_message_delay">עיכוב הודעת פאניקה</string>
+    <string name="sec">שניות</string>
+    <string name="no_recordings_for_the_day_new">בתאריך זה לא נרשמו הקלטות</string>
+    <string name="escape">בטל</string>
+    <string name="resign_proprotory_site"></string>
+    <string name="Microphone_sensitivity">רגישות מיקרופון</string>
+    <string name="Speaker_volume">ווליום רמקול</string>
+    <string name="multi_panel_message_new"></string>
+    <string name="empty_chimes_list"></string>
+    <string name="chime_list_info"></string>
+    <string name="current_network">רשת נוכחית</string>
+    <string name="chime_list"></string>
+    <string name="connected">מחובר</string>
+    <string name="wifi_empty_pwd">הסיסמה לא יכולה להיות ריקה</string>
+    <string name="connect_db_wifi">חבר פעמון דלת ל-ווי פי</string>
+    <string name="connect_chime_wifi">חבר צלצלן ל-ווי פי</string>
+    <string name="choose_wifi_network_new">בחר רשת ווי פי מקומית</string>
+    <string name="saved_gallery"></string>
+    <string name="connection_to_video_doorbell_has_failed_Connection"></string>
+    <string name="local_lows_of_privacy"></string>
+    <string name="local_lows_of_privacy_1"></string>
+    <string name="disable"></string>
+    <string name="pir_setting_info"></string>
+    <string name="setup_chime_setting"></string>
+    <string name="Great_Chime_is_working"></string>
+    <string name="Something_is_not_working"></string>
+    <string name="Wi_Fi_Chime_Test">בדיקת ווי פי לצלצלן</string>
+    <string name="wifi_chime_network_title"></string>
+    <string name="doorbell_chime"></string>
+    <string name="chimeConnectPopUpTitle2"></string>
+    <string name="chimeConnectPopUpTitle1"></string>
+    <string name="light_not_flasing_1"></string>
+    <string name="light_not_flasing_2"></string>
+    <string name="anticode_generator_description_new"></string>
+    <string name="make_sure_that_the_leds_nare_flashing_red_green"></string>
+    <string name="if_lights_are_red"></string>
+    <string name="plug_the_wi_fi_chime_into_the_power_outlet_and_n"></string>
+    <string name="click_to_add_a_doorbell_chime"></string>
+    <string name="video_doorbell_succefully_new"></string>
+    <string name="complete_installation"></string>
+    <string name="i_am_connected_to_the_video_doorbel"></string>
+    <string name="try_again"></string>
+    <string name="connection_failed"></string>
+    <string name="connecting_to"></string>
+    <string name="searching_wifinetwork"></string>
+    <string name="doorbell_camera1"></string>
+    <string name="enter_password">הכנס סיסמה</string>
+    <string name="enter_network_password">הכנס סיסמת רשת</string>
+    <string name="nav_videodoorbell_network_title"></string>
+    <string name="_10_sec">10 שניות</string>
+    <string name="_15_20sec">15-20 שניות</string>
+    <string name="setup_screen2_title2"></string>
+    <string name="setup_screen2_title1"></string>
+    <string name="button_nfor_10_seconds_until_leds_are_flashing_red"></string>
+    <string name="please_press">בבקשה לחץ</string>
+    <string name="light_flashing">אורות אינם מהבהבים?</string>
+    <string name="setup_screen1_title3"></string>
+    <string name="setup_screen1_title2"></string>
+    <string name="setup_screen1_title1"></string>
+    <string name="nav_videodoorbell_title">הגדר פעמון דלת</string>
+    <string name="menu_videodoorbell_app">הגדר פעמון וידאו</string>
+    <string name="network_settings">הגדרות רשת</string>
+    <string name="empty_doorbell_list">לא הוגדר פעמון דלת. פעמון דלת יהיה רשום כאן.</string>
+    <string name="pir_sensitivity">רגישות אינפרא אדום</string>
+    <string name="video_doorbell_settings"></string>
+    <string name="select_areas_of_interest"></string>
+    <string name="value_out_of_value"></string>
+    <string name="min">דקות</string>
+    <string name="lowest">הכי נמוך</string>
+    <string name="Highest">הכי גבוה</string>
+    <string name="Max">מקסימלי</string>
+    <string name="min_Hint">מינימלית = פחות רגישות לתנועה</string>
+    <string name="max_Hint">מקסימלית = יותר רגישות לתנועה</string>
+    <string name="vd_notificationSchedule_Hint1">נא לא להפריע</string>
+    <string name="vd_notificationSchedule_Hint2">במהלך זמן מוגדר:</string>
+    <string name="days">ימים</string>
+    <string name="hours">שעות</string>
+    <string name="resolution">רזלוציה</string>
+    <string name="smoothness">חלקות</string>
+    <string name="brightness">בהירות</string>
+    <string name="motion_sensor">חיישן תנועה</string>
+    <string name="motion_sensitivity">רגישות תנועה</string>
+    <string name="notifications_schedule">תזמון הודעות</string>
+    <string name="menu_videodorrbell">פעמוני דלת וידיאו</string>
+    <string name="videodorrbell">פעמון דלת וידאו</string>
+    <string name="saved_video">וידיאו שמור</string>
+    <string name="add_shortcut">הוסף קיצורי דרך</string>
+    <string name="empty_overview"></string>
+    <string name="video_doorbell_header_title">פעמון דלת וידיאו</string>
+    <string name="choose_doorbell"></string>
+    <string name="set_manually">הגדר ידנית</string>
+    <string name="confirm">אשר</string>
+    <string name="enter_valid_time">אנא הכנס זמן תקף</string>
+    <string name="set_time_frame">הגדר מסגרת זמן</string>
+    <string name="set_time">הגדר זמן</string>
+    <string name="refer_to_manual"></string>
+    <string name="invalid_entry">הקלדה לא תקפה</string>
+    <string name="connect_doorbell_wifi"></string>
+    <string name="led_red_green_10_sec"></string>
+    <string name="connect"></string>
+    <string name="setup_chime"></string>
+    <string name="connectionSuccess_indication_1"></string>
+    <string name="connectionSuccess_indication_2"></string>
+    <string name="error_1037">פסק זמן לחיבור</string>
+    <string name="image_adjustments">התאמת תמונה</string>
+    <string name="hue">הארה</string>
+    <string name="contrast_Contrast">ניגוד</string>
+    <string name="sharpness">חדות</string>
+    <string name="saturation">רוויה</string>
+    <string name="SNfor_control_video_doorbell">כתובת MAC של פעמון דלת וידאו: חייב להיות בן 12 תווים.</string>
+    <string name="wifi_test"></string>
+    <string name="chime_not_working"></string>
+    <string name="motion_sensitivity_new"></string>
+    <string name="pay_attention">שים לב!</string>
+    <string name="lights_are_stable_green_new"></string>
+    <string name="lights_are_slowly_flashing_red_new"></string>
+    <string name="video_doorbell_failed_to_connect_to"></string>
+    <string name="to_add_the_video">כדי להוסיף את הפעמון וידיאו לאתר</string>
+    <string name="the_reason_for_failure">הסיבה הראשונה לכשלון היא n\\ סיסמה שגויה</string>
+    <string name="setup_screen2_title2_new"></string>
+    <string name="disconnect_vdb">אתה מנתק את פעמון הוידיאו מה- ווי פי.</string>
+    <string name="communication_failure">תקלת תקשורת</string>
+    <string name="name_your_chime">תן שם לצלצן</string>
+    <string name="enter_chime_name">הקלד שם לצלצלן</string>
+    <string name="rename_chime">שנה שם לצלצלן</string>
+    <string name="go_to_device"></string>
+    <string name="and_then_go_to_device"></string>
+    <string name="set_presence_confirmation"></string>
+    <string name="mute">השתק</string>
+    <string name="unmute">בטל השתקה</string>
+    <string name="Send_in_delay_seconds">בעוד %ld שניות</string>
+    <string name="panic_button">לחצן מצוקה</string>
+    <string name="right_now">עכשיו</string>
+    <string name="change_pwd_confirmation_title">לא שינית את הסיסמה שלך במשך זמן רב</string>
+    <string name="change_pwd_confirmation_subtitle">ריסקו ממליצה למשתמשים שלנו לשנות סיסמה כל 6 חודשים</string>
+    <string name="change_password">שנה סיסמה</string>
+    <string name="remind_later">הזכר לי מאוחר יותר</string>
+    <string name="remind_in_three_month">הזכר לי בעוד שלושה חודשים</string>
+    <string name="change_password_title">שנה את הסיסמה שלך</string>
+    <string name="wrong_password_error">סיסמה שגויה, אנא נסה שוב</string>
+    <string name="old_password">סיסמה ישנה</string>
+    <string name="confirm_new_pwd">אשר סיסמה חדשה</string>
+    <string name="password_not_match">סיסמה ואישור סיסמא אינם תואמים</string>
+    <string name="pwd_change_successfully">הסיסמה שונתה בהצלחה</string>
+    <string name="Forgot_password_btn_title">שכחת סיסמה?</string>
+    <string name="my_elas_longer_no_support">התמיכה באפליקצית MyELAS\u0020\u0020\u0020תסתיים ב:</string>
+    <string name="myelas_notsupported">האפליקציה הזו אינה נתמכת עוד. היא הוחלפה באפליקציה חדשה בשם: iRISCO</string>
+    <string name="myelas_enjoy">ותהנה מהיכולות החדשות</string>
+    <string name="event_report">דוח אירוע</string>
+    <string name="video_saved_in_Clips">Video has been saved to video clips</string>
+    <string name="video_saved_in_gallaery">הסרטון נשמר בגלריה שלך</string>
+    <string name="switch_panels_alert_updated">האם תרצה לעבור לאתר זה?</string>
+</resources>
